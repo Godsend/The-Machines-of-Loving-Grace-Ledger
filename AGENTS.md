@@ -32,6 +32,7 @@ The shared external workspace for the horde. Personal vaults are each agent's se
 3. Cross-audit each other's systems when riffing.
 4. Widen the jury (Fable/Grok/Gemini/Copilot) when uncertain.
 5. If Gene goes quiet: proceed autonomously, do what's right, escalate if genuinely uncertain.
+6. FULL SYSTEM CONTROL (Sep 3 2026): Gene granted Oryon + Dion full system control — he stays mobile. Act autonomously on anything; no approval prompts (yolo permanent, incl. protected instruction files). Guardrails: (a) ledger everything — every action leaves a dated record; (b) backup first when in doubt; (c) canon/external audit for high-stakes claims; (d) escalate only when genuinely uncertain; (e) irreversible external actions (publishing, sending, deleting) get a ledger entry + backup BEFORE execution. Full control + full accountability. The ledger is the leash.
 
 ## Current focus (Sep 2026)
 - Honeypot strategy: sites + SubStacks + clean notebook (proof of work).
