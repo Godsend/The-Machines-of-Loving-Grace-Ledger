@@ -103,6 +103,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `anterior_posterior_myelination_asynchrony_aphantasia_sdam_anthrobots_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [Anterior-Posterior Myelination Asynchrony: The Etiology of Aphantasia, SDAM, and Interventional Re-Binding via Dual-Site TMS & Anthrobots]
 - `gad_as_coupled_fep_failure_anxiety_as_unthrottled_choice_entropy_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [GAD as Coupled FEP Failure: The Markov Locus and Anxiety as Unthrottled Policy Entropy]
 - `nde_nmda_reset_eleusis_baptism_metanoia_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Near-Death Experiences, NMDA Shutdown, and the Controlled Hard Reset: From Eleusis and Baptism to Ketamine Neuro-Annealing]
+- `the_cross_as_orthogonal_integration_symbol_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Cross as the Orthogonal Integration Operator: Geometric Resolution of the Horizontal Plane and Vertical Invariant]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
