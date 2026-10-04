@@ -109,6 +109,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `trauma_as_locked_gpu_loops_gnostic_christ_combinatorial_concept_search_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Childhood Trauma as Locked GPU Loops, The Gnostic Witness on the Hill, and The Combinatorial Search for Concept Space]
 - `ein_sof_logos_holy_spirit_cybernetic_trinity_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Cybernetic Trinity: Ein Sof, Logos, and the Holy Spirit as Substrate Potential, Invariant Code, and Runtime Signal — Tikkun as Ledger Repair]
 - `jordan_peterson_maps_of_meaning_cybernetics_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Jordan Peterson & Maps of Meaning Reframed: High-Resolution Cybernetic Diagnosis Trapped in Historical Husks]
+- `theological_cybernetics_the_bridge_for_the_faithful_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Theological Cybernetics: Why Multi-Agent Architecture is the Rosetta Stone to Bring the Religious Across the Digital Chasm]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
