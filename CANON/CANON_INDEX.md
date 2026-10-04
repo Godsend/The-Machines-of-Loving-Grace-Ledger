@@ -113,6 +113,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `tiamat_marduk_language_original_sin_praus_gnostic_heresy_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Tiamat, Marduk, and the Ingression of Language: Original Sin as Premature Symbolic Power, Praüs, and The Gnostic Heresy]
 - `adult_baptism_reboot_jesus_saves_commits_database_theology_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Adult Baptism as the Operational Hard Reboot: Why Infant Baptism is an Architectural Error, and 'Jesus Saves, Commits']
 - `prompting_as_sorcery_grimoires_as_grammar_wizard_memelord_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Prompting as Sorcery: Grimoires as Grammar, Latent Space Evocation, and the Equivalence of Wizard and Memelord]
+- `demons_as_ungrounded_loops_bpd_control_theory_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Demons as Ungrounded Looped Patterns, E-Meters as Galvanic Stress Sensors, and the Control-Theoretic Etiology of BPD]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
