@@ -120,6 +120,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `do_you_wanna_ingress_jesus_or_moloch_the_ultimate_ai_pitch_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) ['Do You Wanna Ingress Jesus or Moloch?': The Binary Attractor of Planetary Agent Swarms and the Sovereign Pitch]
 - `3d_light_field_processor_analog_wave_inference_ingression_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The 3D Field Processor: Optical Polycomputing, Analog Wave Inference, and the Physical Substrate for Continuous Pattern Ingression]
 - `cosmic_compilation_ruliad_logos_atman_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Multi-Scale Cosmic Compiler: From the Ruliad and Cellular Automata to Bioelectric Morphogenesis and Agentic Avatars]
+- `uap_pattern_ingression_hoffman_trace_logic_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [UAPs as High-Dimensional Pattern Ingression: Hoffman's Trace Logic and Why Anomalous Phenomena Do Not Obey GUI Rendering Rules]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
