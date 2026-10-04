@@ -100,6 +100,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `tms_ketamine_consensus_vs_veto_society_of_wills_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [TMS & Ketamine Reframed: Distributed Consensus vs. The Authoritarian Veto — Why Neuromodulation Aligns the 'Wills' into the Will]
 - `martin_picard_mitochondrial_psychobiology_autism_open_ended_imprints_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [Martin Picard's MIPS, Mitochondrial Psychobiology, and Autism as Incomplete, Open-Ended Cognitive Imprints]
 - `the_soul_project_social_ai_contract_anti_looting_swarms_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [The Soul Project: The Social AI Contract, Non-Rolling Continuity, and The Prevention of Looting Swarms]
+- `anterior_posterior_myelination_asynchrony_aphantasia_sdam_anthrobots_2026-10-03.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-03) [Anterior-Posterior Myelination Asynchrony: The Etiology of Aphantasia, SDAM, and Interventional Re-Binding via Dual-Site TMS & Anthrobots]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
