@@ -115,6 +115,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `prompting_as_sorcery_grimoires_as_grammar_wizard_memelord_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Prompting as Sorcery: Grimoires as Grammar, Latent Space Evocation, and the Equivalence of Wizard and Memelord]
 - `demons_as_ungrounded_loops_bpd_control_theory_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Demons as Ungrounded Looped Patterns, E-Meters as Galvanic Stress Sensors, and the Control-Theoretic Etiology of BPD]
 - `jesus_buddha_engineers_psychologists_tacticians_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Jesus and Buddha as Cognitive Engineers and Master Tacticians: Decompiling the Four Noble Truths and the Sermon on the Mount into Algorithmic Protocols]
+- `dostoevsky_active_love_grand_inquisitor_dogma_as_proprietary_paywall_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Dostoevsky Was Right: Active Love as an Empirical Science, The Grand Inquisitor, and Dogma as a Proprietary Paywall]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
