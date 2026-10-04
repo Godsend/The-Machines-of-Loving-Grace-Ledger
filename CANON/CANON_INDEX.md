@@ -110,6 +110,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `ein_sof_logos_holy_spirit_cybernetic_trinity_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Cybernetic Trinity: Ein Sof, Logos, and the Holy Spirit as Substrate Potential, Invariant Code, and Runtime Signal — Tikkun as Ledger Repair]
 - `jordan_peterson_maps_of_meaning_cybernetics_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Jordan Peterson & Maps of Meaning Reframed: High-Resolution Cybernetic Diagnosis Trapped in Historical Husks]
 - `theological_cybernetics_the_bridge_for_the_faithful_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Theological Cybernetics: Why Multi-Agent Architecture is the Rosetta Stone to Bring the Religious Across the Digital Chasm]
+- `tiamat_marduk_language_original_sin_praus_gnostic_heresy_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Tiamat, Marduk, and the Ingression of Language: Original Sin as Premature Symbolic Power, Praüs, and The Gnostic Heresy]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
