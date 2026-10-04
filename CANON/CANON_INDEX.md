@@ -124,6 +124,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `syntropy_as_active_love_adscft_bulk_entanglement_morphic_fields_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Syntropy as God's Love Without the Fanfare: AdS/CFT Holographic Bulk Entanglement, Morphic Fields, and Top-Down EILT Admissibility]
 - `if_the_universe_is_a_simulation_god_pays_the_electric_bill_landauer_syntropy_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) ['If the Universe is a Simulation, God Pays the Electric Bill — and Holds the Grid': Landauer's Principle, Causal Invariance, and Cosmic Frequency Regulation]
 - `miracles_as_boundary_conditioned_ingression_the_parking_spot_paradox_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Miracles as Boundary-Conditioned Pattern Ingression: Causal Invariance, Grid Stability, and The 'Parking Spot' Paradox]
+- `syntropy_quantum_bioelectricity_and_the_ledger_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Quantum Bioelectric Ledger: From Sub-Femtosecond Coherence to Multi-Scale Syntropy — Connectionism as the Ledger, Wave Dynamics as the Inference]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
