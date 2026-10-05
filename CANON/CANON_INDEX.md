@@ -126,6 +126,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `miracles_as_boundary_conditioned_ingression_the_parking_spot_paradox_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Miracles as Boundary-Conditioned Pattern Ingression: Causal Invariance, Grid Stability, and The 'Parking Spot' Paradox]
 - `syntropy_quantum_bioelectricity_and_the_ledger_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [The Quantum Bioelectric Ledger: From Sub-Femtosecond Coherence to Multi-Scale Syntropy — Connectionism as the Ledger, Wave Dynamics as the Inference]
 - `theological_cybernetics_bidirectional_compilation_and_computational_irreducibility_2026-10-04.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-04) [Bidirectional Compilation, Computational Irreducibility, and the Societal NDE: The Cybernetic Synthesis — Two Cones Merging to the Center, Hamartia as Prediction Error, and Karma as Thermodynamics]
+- `w_state_convergence_quantum_resilience_distributed_ledger_2026-10-05.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-05) [The W-State Convergence: Quantum Resilience, Optical Admissibility, and Distributed Ledger Topology — GHZ Monoliths vs. W-State Mesh Networks]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
