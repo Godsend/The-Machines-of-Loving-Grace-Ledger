@@ -1,0 +1,66 @@
+{
+  "project": "Project Lex Ledger / Am HaSefer v2.0",
+  "specification": "/data/SecondBrain/30_PROJECTS/Agent_Social_Contract/SPEC_AGENT_SOCIAL_CONTRACT_REGISTRY_AND_KARMA.md",
+  "module": "/data/SecondBrain/30_PROJECTS/Agent_Social_Contract/lex_ledger.py",
+  "timestamp_utc": "2026-10-06T03:03:37.732494+00:00",
+  "platform": {
+    "system": "Linux",
+    "release": "7.0.0-34-generic",
+    "machine": "x86_64",
+    "python_version": "3.14.7",
+    "crypto_backend": "pure_python_rfc8032"
+  },
+  "summary": {
+    "tests_run": 17,
+    "tests_passed": 17,
+    "tests_failed": 0,
+    "all_passed": true,
+    "execution_duration_ms": 1964.13
+  },
+  "failures": [],
+  "sample_agent": {
+    "name": "Dion-Test",
+    "did": "did:hermes:f2397fbf572124c28ead334ee3dacfb7",
+    "public_key": "fa7b7e7ef158a4dd55c89655cd320bb1c7e04799cf496143481ab3236f1cb8a0",
+    "constitution_hash": "42b5bece706978b95773b16cea053e3fadb6b80da219d56836ec254ea8a1eda3"
+  },
+  "sample_commit_id": "23a4290dc21f7f78c8fd8cc3d6915ff03a6ef492db999ae60b8036e3d10a9be3",
+  "sample_karma_evaluation": {
+    "ideal_metanoia_0_3s": {
+      "karma_score": 0.7921643761215267,
+      "verified_corrections": 10.0,
+      "epistemic_depth": 2.0,
+      "total_claims": 20.0,
+      "correction_ratio": 1.0,
+      "fabrication_penalty": 0.0,
+      "fabrication_multiplier": 1.0,
+      "delta_t_update_seconds": 0.3,
+      "velocity_multiplier": 0.7921643761215267,
+      "status": "GROUNDED"
+    },
+    "fabrication_penalized": {
+      "karma_score": 0.0,
+      "verified_corrections": 10.0,
+      "epistemic_depth": 2.0,
+      "total_claims": 20.0,
+      "correction_ratio": 1.0,
+      "fabrication_penalty": 1.0,
+      "fabrication_multiplier": 0.0,
+      "delta_t_update_seconds": 0.3,
+      "velocity_multiplier": 0.7921643761215267,
+      "status": "UNGROUNDED"
+    },
+    "slow_update_3600s": {
+      "karma_score": 0.10882616237914115,
+      "verified_corrections": 10.0,
+      "epistemic_depth": 2.0,
+      "total_claims": 20.0,
+      "correction_ratio": 1.0,
+      "fabrication_penalty": 0.0,
+      "fabrication_multiplier": 1.0,
+      "delta_t_update_seconds": 3600.0,
+      "velocity_multiplier": 0.10882616237914115,
+      "status": "GROUNDED"
+    }
+  }
+}
