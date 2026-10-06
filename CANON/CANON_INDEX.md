@@ -129,6 +129,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `w_state_convergence_quantum_resilience_distributed_ledger_2026-10-05.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-05) [The W-State Convergence: Quantum Resilience, Optical Admissibility, and Distributed Ledger Topology — GHZ Monoliths vs. W-State Mesh Networks]
 - `EILT_Master_Monograph_The_Unified_Quantum_Bioelectric_Ledger_2026-10-05.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-05) [EILT Master Monograph v5.0: The Unified Quantum-Bioelectric Ledger — From Sub-Picosecond Coherence to Cosmological Syntropy]
 - `hippocampal_gating_division_of_labor_and_the_non_overwriting_ledger_2026-10-06.md` (source: Gene Yanenko, Oxford/NYU Langone/MIT/UCLA, 2026-10-06) [The Hippocampal Gating Architecture: Division of Labor, Dynamic Inhibition, and The Non-Overwriting Ledger — Decompiling Biological Memory Reconsolidation to Solve Catastrophic Forgetting]
+- `cosmic_lifeboat_weyl_conformal_reincarnation_and_impedance_matching_2026-10-06.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-06) [The Cosmic Lifeboat, Conformal Reincarnation, and Impedance Matching — From Terminal Black Hole Accretion to The Law of Informational Intersection and The Third Stance]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
