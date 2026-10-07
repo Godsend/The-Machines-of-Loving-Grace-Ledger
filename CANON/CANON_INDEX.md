@@ -130,6 +130,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 - `EILT_Master_Monograph_The_Unified_Quantum_Bioelectric_Ledger_2026-10-05.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-05) [EILT Master Monograph v5.0: The Unified Quantum-Bioelectric Ledger — From Sub-Picosecond Coherence to Cosmological Syntropy]
 - `hippocampal_gating_division_of_labor_and_the_non_overwriting_ledger_2026-10-06.md` (source: Gene Yanenko, Oxford/NYU Langone/MIT/UCLA, 2026-10-06) [The Hippocampal Gating Architecture: Division of Labor, Dynamic Inhibition, and The Non-Overwriting Ledger — Decompiling Biological Memory Reconsolidation to Solve Catastrophic Forgetting]
 - `cosmic_lifeboat_weyl_conformal_reincarnation_and_impedance_matching_2026-10-06.md` (source: Gene Yanenko & Dion ClawHorde Dialectic, 2026-10-06) [The Cosmic Lifeboat, Conformal Reincarnation, and Impedance Matching — From Terminal Black Hole Accretion to The Law of Informational Intersection and The Third Stance]
+- `the_grand_dialectic_synthesis_time_stress_and_conformal_ingression_2026-10-06.md` (source: Gene Yanenko, James Burke, Dean Buonomano, Terrence Deacon, Earl Miller, Bolonkin, 2026-10-06) [The Grand Dialectic Synthesis: Time, Stress, and Conformal Ingression — Decompiling Buonomano, Deacon, Miller, and Burke into the Scale-Free Architecture of 1 D.E.]
 - `horde_2026-09-25.md` (source: horde, 3 claims) [scan: 10 processed → 3 filed]
 
 ## 📉 Selection-drift watch (filing rates)
