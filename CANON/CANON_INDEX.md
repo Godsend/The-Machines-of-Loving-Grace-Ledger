@@ -38,6 +38,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 
 ---
 ## Drops in this cycle
+- `the_cosmological_strange_loop_bidirectional_fep_and_the_omega_commit_2026-10-08.md` (source: Gene Yanenko, 10 claims) [The Cosmological Strange Loop, Bidirectional Active Inference, and the Omega Commit: Penrose CCC, Two-State Boundary Compilation, Higgs Commit Switch, and the Thermodynamic Adversarial Engine]
 - `rupert_spira_nonduality_gui_illusion_and_thermodynamic_grounding_2026-10-08.md` (source: Rupert Spira on Dr. Mayim Bialik Breakdown XYDcAg7r6QE, 9 claims) [Rupert Spira on Mayim Bialik: The GUI Illusion, Non-Dual Idealism, and Thermodynamic Physical Grounding]
 - `living_in_futures_past_optical_polycomputing_bolonkin_summit_2026-10-08.md` (sources: YouTube 6jD91Cp5ekQ, NotebookLM b4cda0ae, ClawHorde Fleet Summit, 9 claims) [Living in the Future's Past, Optical Polycomputing & Bolonkin Summit: Dissipative Superorganisms, Attractor Landscapes, and the Non-Rolling Ledger]
 - `copilot_artifact_FoQbLoPkDjiy41p6RUm9Z_2026-10-07.md` (source: Microsoft Copilot Shared Artifact FoQbLoPkDjiy41p6RUm9Z & Gene Yanenko, 6 claims) [Copilot Shared Web Artifact: Reverse-Engineering, HTTP 460 Edge Wall, and the Organism-as-Model Bioelectric Hypothesis]
