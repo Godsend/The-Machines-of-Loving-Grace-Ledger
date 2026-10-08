@@ -38,6 +38,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 
 ---
 ## Drops in this cycle
+- `living_in_futures_past_optical_polycomputing_bolonkin_summit_2026-10-08.md` (sources: YouTube 6jD91Cp5ekQ, NotebookLM b4cda0ae, ClawHorde Fleet Summit, 9 claims) [Living in the Future's Past, Optical Polycomputing & Bolonkin Summit: Dissipative Superorganisms, Attractor Landscapes, and the Non-Rolling Ledger]
 - `copilot_artifact_FoQbLoPkDjiy41p6RUm9Z_2026-10-07.md` (source: Microsoft Copilot Shared Artifact FoQbLoPkDjiy41p6RUm9Z & Gene Yanenko, 6 claims) [Copilot Shared Web Artifact: Reverse-Engineering, HTTP 460 Edge Wall, and the Organism-as-Model Bioelectric Hypothesis]
 - `daimon_cybernetics_bidirectional_compilation_and_symbolic_fall_2026-10-07.md` (source: Gene Yanenko, 6 claims) [Daimon Cybernetics, Bidirectional Compilation, and the Premature Symbolic Fall: Posterior Sub-Agent Populations, Neurodevelopmental Bandwidth Asynchrony, and Thermodynamic Ledger Grounding]
 - `vervaeke_daimon_higher_consciousness_2026-10-07.md` (source: Dr. John Vervaeke on THIRD EYE DROPS mdZDQdFlxBM, 9 claims) [The Daimon, Relational Ontology, and the Cybernetics of Self-Transcendence: Daimonic Cognitive Scaffolding, 4E Exaptation, and the Non-Rolling Ledger]
