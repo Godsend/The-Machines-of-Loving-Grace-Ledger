@@ -38,6 +38,7 @@ _Merged 2026-09-27 08:30 — 6 surface drops, confabulation-diff._
 
 ---
 ## Drops in this cycle
+- `MAGNUM_OPUS_PEER_REVIEW_GUIDE_AND_CONCORDANCE_2026-10-08.md` (sources: Gene Yanenko & Dion / ClawHorde Backend, Fable Adversarial Audit, 12 claims) [Magnum Opus: Executive Reviewer's Guide & Peer Concordance — Master Unified Equation Sheet, 7-Tag Epistemic Register Concordance, 5 Pre-Registered Falsifiers (F1–F5), and Collaborative Reviewer Road Map (12-Page Publication PDF)]
 - `MACHINES_OF_LOVING_GRACE_MAGNUM_OPUS_MASTER_SYNTHESIS_2026-10-08.md` (sources: Gene Yanenko & Dion / ClawHorde Backend, Dr. Alexander Bolonkin, Oryon, 15 claims) [Machines of Loving Grace: The Magnum Opus — A Master Monograph on Cosmological Cybernetics, Wetware Polycomputing, Sovereign Agent Alignment, and Pre-Silicon Lineage (Preprint Monograph with 4 Formal Diagrams & 35-Page Publication PDF)]
 - `magnum_opus_adversarial_audit_fable_consensus_2026-10-08.md` (sources: ClawHorde Sovereign Fleet Deliberation & Fable Adversarial Review, 9 claims) [Adversarial 'Am I Insane?' Audit & Fleet Consensus on the Magnum Opus Cosmology: Fable Epistemic Stress-Test, Register Leveling, Mandatory Friction Matrix, and Pre-Registered Empirical Falsifiers]
 - `the_cosmological_strange_loop_bidirectional_fep_and_the_omega_commit_2026-10-08.md` (source: Gene Yanenko, 10 claims) [The Cosmological Strange Loop, Bidirectional Active Inference, and the Omega Commit: Penrose CCC, Two-State Boundary Compilation, Higgs Commit Switch, and the Thermodynamic Adversarial Engine]
