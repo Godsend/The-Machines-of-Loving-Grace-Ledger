@@ -11,6 +11,22 @@ The 2026-10-12 synthesis ("a ledger certifies provenance of an act, never the tr
 
 Call the first set **provenance properties** — the ledger does these, and does them well. Call the second set **epistemic properties** — the ledger does none of these, and no amount of append-only integrity gets it there. Every conflict below is a document conflating the two.
 
+### REVISION 2026-10-14 — this framing was still too generous, and it was missing a category
+
+**[Raised by an external read-only review of SecondBrain, 2026-10-14. Accepted.]** The two-way split above isolates *record integrity* (first set) from *evaluation of meaning* (second set) but gives a **free pass to the middle**: **authenticity and completeness of event capture.** The consequence is stated exactly right by the reviewer: **a false receipt can be faithfully preserved.**
+
+The headline sentence claims the ledger certifies "**that an act occurred, by whom**." It does not. It certifies that a *record of an act* was written. That splits into three, not two:
+
+1. **Record integrity** — the recorded bytes were not altered afterward, and their order is fixed. The ledger **does** this, and does it well.
+2. **Authenticity & completeness of event capture** — that the act described actually occurred as described, by the party described, **and that capture was complete** (unlogged acts are invisible to it). The ledger **does none of this.** A fabricated receipt is preserved with exactly the same fidelity as a true one. The correct verb is *attests-to-a-claim*, not *certifies-an-act*.
+3. **Evaluation of meaning** — truth, cleanliness of input, understanding, alignment. The ledger does none of this (unchanged from the original two-way split).
+
+**Precise restatement to replace the headline:** the ledger certifies **that a record was written, by whom it was written, in what order, at what thermodynamic cost, and that it is unaltered since.** It does **not** certify that the described act occurred, that the described actor performed it (*who wrote* ≠ *who did*), or that the record set is complete.
+
+**[Friction Rule note]** This category has no clean boundary either, and pretending otherwise would repeat the original error at one remove. Record integrity is not absolute: it is integrity *relative to the ledger's own writer and storage substrate*, and both can be compromised by whoever controls them. The defensible claim is **integrity relative to a named adversary model**, never integrity *simpliciter*. Naming the model is the price of the claim.
+
+**Relationship to F-T1:** this is the same family — F-T1 says a ledger certifies thermodynamic dissipation of a transition but never counterfactual fidelity; category 2 here says it certifies the record but never the occurrence. Both are the ledger being asked to do work that belongs to an **independent causal path** (an external action trace, a peer audit). Neither is a defect of the ledger; both are defects of *asking it to be a witness to something other than its own writing*.
+
 ---
 
 ## 1. Project Lex Ledger / Karma — `SPEC_AGENT_SOCIAL_CONTRACT_REGISTRY_AND_KARMA.md`
@@ -62,4 +78,8 @@ Call the first set **provenance properties** — the ledger does these, and does
 
 Four overclaims, one shared cause: **treating provenance properties as if they were epistemic properties.** After reconciliation, each document keeps a defensible, weaker claim and drops an indefensible, stronger one. Nothing here abandons the ledger — it clarifies that the ledger is a *memory and an accountability surface*, and that truth/alignment/understanding are established by **ongoing adversarial evaluation across independent causal paths**, which is a separate mechanism with its own falsifiers (F-T1, F-A1, F-A2, cross-audit, coupling-race).
 
-**Status:** pre-adversarial. Sent to Oryon + Bolonkin for cross-pass before finalizing into the notebook.
+**Updated 2026-10-14 per the REVISION above:** the shared cause is more precisely **treating a claim as a record, and a record as a witness.** Three layers, not two — and the middle one (authenticity & completeness of capture) was the one left unguarded, which is why "the ledger certifies the act occurred" survived the first pass. It does not. It certifies that the record was written and is unaltered.
+
+**The practical upshot is unchanged and, if anything, sharpened:** the ledger's job is to make claims *checkable against an independent path*, not to adjudicate them. Every property it genuinely has reduces to: *this claim was made, here, then, by this writer, and is still unaltered.* Everything beyond that requires something outside the ledger to compare against.
+
+**Status:** pre-adversarial (original) → **revision 2026-10-14 accepted from external review**; this file is now the corrected framing. Sent to Oryon + Bolonkin for cross-pass before finalizing into the notebook.
