@@ -7,7 +7,54 @@
 > **Operator's words (2026-10-15, verbatim):** *"the base eilt version came from an argument with
 > 'the universe' about materialism on ketamine so interesting either way."*
 
-**Date of the originating event:** **circa 2023** — recovered, not inferred. See the primary artifact below.
+**Date of the originating event:** **~2023 per operator recollection only** — **NOT artifact-confirmed, and
+the recollection is rounded** (artifacts place him researching ketamine in July 2024, so the episode may
+be later). The earliest **artifact** trace of the framework is **2024-12-20**. See both sections below.
+
+---
+
+## EARLIER TRACE FOUND — ChatGPT, 2024-12-20 (the earliest artifact so far)
+
+**Found 2026-10-15 by the same recovery method, second pass.** The Claude 2025-09-17 conversation is
+**not** the earliest written trace. There is an earlier one in the **ChatGPT** history.
+
+- **Artifact:** `/data/SecondBrain/AI_Exports/chatgpt/2026-09-27/conversations-000..003.json`
+  (301 conversations, spanning **2022-12-24 → 2026-09-24** — so the export *does* cover the episode window)
+- **Conversation:** *"Genesis as Spacetime Metaphor"* · **created 2024-12-20T19:43:16Z** · model `gpt-4o`
+  · 52 messages · id `6765c8d4-1eac-8004-bdfc-4bc7648394b0` (a second session with the same title runs
+  2025-01-10)
+- **What it already contains** — the methodology running, un-named:
+  1. Genesis reinterpreted not literally but as **"a metaphor for the building fundamentals of
+     spacetime"** — the same move later filed as *Genesis as data-structure creation*.
+  2. Then the **613 commandments** read as universal principles (e.g. the ban on graven images read as
+     *"warns against reducing the vast complexity of the universe into simplified, static models…
+     static approximations fail to capture the fullness of quantum systems"*).
+  3. Then an **aggregate synthesis**: all available religious/philosophical texts + quantum field
+     theory + relativity + **quantum gravity** + inflationary cosmology.
+  4. Then — decisively — he brings in **the Free Energy Principle and Bayesian dynamics**, with
+     Kabbalistic *Ein Sof* mapped to unbounded potential, Taoist *wu wei* to free-energy minimisation,
+     and mindfulness to belief updating.
+- **Why this matters:** the FEP/Bayesian leg is an **EILT ingredient** (the Friston leg of
+  Wolfram ⊗ Levin ⊗ Friston). **By December 2024 the component set was already in play** — symbolic
+  texts read as information physics, plus physics, plus variational inference — nine months before
+  *"Got the bones of EILT from that."*
+
+### Revised dating (artifact-anchored where possible)
+
+| Stage | Date | Basis |
+|---|---|---|
+| The in-state episode | **~2023** | **Operator recollection only** ("about 2 years ago", stated 2025-09-17). **No artifact yet.** |
+| Ketamine research in ChatGPT | 2024-07-09 | Artifact (`Ketamine Addictive? Yes`, `Ketamine Physiological Effects`) — research, not the episode account |
+| Earliest written framework trace | **2024-12-20** | **Artifact** — *Genesis as Spacetime Metaphor*, FEP/Bayesian already present |
+| Framework named, verbatim origin account | **2025-09-17** | **Artifact** — *Computational consciousness exploration*, message #150 |
+
+**Two honest consequences:** (a) the ~2023 episode date rests on recollection alone and the recollection
+is **rounded** — artifacts place him actively researching ketamine in **July 2024**, so the episode may
+be later than "2 years" suggests; do not treat ~2023 as settled. (b) The **ChatGPT history (301
+conversations, Dec 2022 → Sept 2026) contains ZERO hits** for `genesis as data structure`, `EILT`,
+`vayavdel`, or `informational ledger` — all 65 of its 2023 conversations are unrelated. So the
+**framework was named and articulated in Claude, not ChatGPT**, and the Dec 2024 Genesis work is an
+earlier *pre-naming* trace rather than a competing venue.
 
 ---
 
