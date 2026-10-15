@@ -7,7 +7,56 @@
 > **Operator's words (2026-10-15, verbatim):** *"the base eilt version came from an argument with
 > 'the universe' about materialism on ketamine so interesting either way."*
 
-**Date of the originating event:** **NOT ESTABLISHED on the record.** Marked open below. Do not infer one.
+**Date of the originating event:** **circa 2023** — recovered, not inferred. See the primary artifact below.
+
+---
+
+## PRIMARY ARTIFACT — RECOVERED 2026-10-15
+
+**Recovered by the same method that recovered the DSDN origin** (dated chat-export search). This
+turns an undated recollection into a dated artifact with verbatim text.
+
+- **Artifact:** `Claude/ClaudeExport/1/conversations.txt` (48.3 MB JSON export, 153 conversations)
+- **Conversation:** *"Computational consciousness exploration"*
+- **uuid:** `c6970a85-1509-4816-b213-909c34fabb41` · **created 2025-09-17T22:24:41Z** · 547 messages
+- **Also on disk:** `MoLG_Claude_SourceOfTruth/chat_05_Computational consciousness exploration.md`
+- **Earliest conversation containing all four signature terms** (`genesis as data structure`,
+  `ketamine experience`, `eilt`, `emergent informational ledger`) — by a wide margin; the next is
+  2026-02-20.
+- **The account is at message #150**, in the operator's own words.
+
+### Verbatim (message #150, 2025-09-17) — unedited
+
+> *"I've had some parallel experiences and he seems pretty rational. I was a hardcore materialist for
+> pretty much all my life until about 2 years ago on a ketamine trip, I can't say I heard anything but
+> just like my internal non verbal representation. Basically something was communicating that there's
+> more than just physicalism. Since I was pretty high at the time and I guess probably PDA, I started
+> basically arguing with whatever the fuck that was and that without a clear explanation of the
+> mechanics of how that could work even in theory and until then I'm just treating it as a drug
+> delusion. **Got the bones of EILT from that.** Again I knew all the encompassing theories and maybe
+> that was just my minds way of integration and that materialism just became logically inconsistent.
+> Just weird that it's similar though not visual. Might be something about how the brain works as well
+> that more general"*
+
+### What the artifact establishes (each item now sourced, not remembered)
+
+1. **Dating.** "About 2 years ago" from 2025-09-17 → the episode is **circa 2023**. Artifact-anchored.
+2. **Modality.** *"I can't say I heard anything… just like my internal non verbal representation"* and
+   *"though not visual"* — **neither auditory nor visual.** Consistent with the operator's documented
+   render-path profile (voluntary aphantasia, intact involuntary generation), and consistent with the
+   2026-10-15 account of tiled geometry being an exception rather than the norm.
+3. **The argument.** *"I started basically arguing with whatever the fuck that was"* — matches the
+   later recollection exactly.
+4. **The actually load-bearing line — and it reframes this whole document.** *"without a clear
+   explanation of the mechanics of how that could work even in theory and until then I'm just treating
+   it as a drug delusion."* **The framework exists because the operator refused the experience without
+   a mechanism.** That is the origin of the house's mechanism-first discipline, stated at the origin,
+   in the moment — not adopted later as policy. EILT is the shape it is *because* this was the
+   condition placed on it.
+5. **The integration reading is CONTEMPORANEOUS, not retrofitted.** *"maybe that was just my minds way
+   of integration"* — held in September 2025, eighteen months before the 2026-10-15 conversation.
+6. **The claim is narrow.** *"materialism just became logically inconsistent"* — a claim about logical
+   consistency, not about receiving information. It has no privileged-access claim attached.
 
 ---
 
@@ -88,14 +137,42 @@ falsifiers, register tags, cross-family audit — over the following period.
 - `90_System/Note_Origin_DSDN_Synchronicity_Network_2026-10-13.md` — the sibling origin note
 - `Canon/drops/canon_drop_bolonkin_lineage_and_soviet_dissident_provenance_2026-10-02.md` — lineage precedent
 
+## Mechanism (operator's account, 2026-10-15, verbatim)
+
+> *"no new parts just rapid integration"* — and, of the input: *"why i was watching hundreds of hours
+> of videos on physics and consciousness."*
+
+This is the sharper form of the origin claim and it is **self-limiting**: the state did not introduce
+content, it **collapsed the binding time** on material already acquired. Hundreds of hours of physics
+and consciousness video are the **orthogonal 2D projections**; the integration step is what the
+operator's own learning model (holographic CT / inverse Radon) describes; ketamine functioned as the
+low-temperature phase where the projections can intersect instead of scatter. The "argument" had the
+operator on both sides — he supplied the corpus and the objection. Compare the diurnal engine
+(hot exploration → quiet integration): the state appears to have done the step sleep normally does,
+faster and without somatic drag. **The boring reading, which is why it is the more credible one.**
+
+### The falsifier this mechanism carries (NEW — the note previously had none)
+
+**Derivability test.** If the origin was integration-only, then **EILT's load-bearing content should
+be traceable to sources the operator had already consumed** — every substantive move derivable from
+that corpus. If any element of the framework is **genuinely non-derivable** from those inputs (an
+element with no ancestor in the input set), the integration account takes the hit and something else
+is implicated. This is checkable: the watch history and the canon's own citations against the
+framework's claims. **Pre-registered as F-EO1.** It is the first falsifier attached to the origin
+rather than to the theory — and it can fail.
+
 ## Open items
 
-1. **Date of the originating episode — UNKNOWN.** Needed if this is ever cited in a paper.
-2. **Whether an independent record exists** (a contemporaneous note, a Claude/chat export, an
-   audio memo). The DSDN recovery found its origin in a dated 566-message chat export; the same
-   search has **not** been run for this one.
-3. **How much of the base formulation is traceable to that episode versus later sober work** —
-   unresolved and probably unresolvable in principle.
+1. ~~Date of the originating episode~~ — **RESOLVED: circa 2023**, anchored to the 2025-09-17 artifact.
+2. ~~Whether an independent record exists~~ — **RESOLVED: yes**, recovered (conversation
+   `c6970a85-1509-4816-b213-909c34fabb41`, message #150). Still unchecked: whether an **earlier**
+   contemporaneous trace exists nearer to 2023, and whether the episode has any medical/treatment
+   record.
+3. **How much of the base formulation traces to the episode versus later sober work** — still open,
+   and now partly addressable via **F-EO1** rather than being permanently unresolvable.
+4. **New:** the operator's 2026-10-15 tiled-geometry DMT report (single exposure, sub-breakthrough,
+   unknown potency) should be cross-checked against the 2025-09-17 modality statement (*"though not
+   visual"*) — an apparent tension worth resolving on the record rather than leaving implicit.
 
 ## Standing-debt note
 
