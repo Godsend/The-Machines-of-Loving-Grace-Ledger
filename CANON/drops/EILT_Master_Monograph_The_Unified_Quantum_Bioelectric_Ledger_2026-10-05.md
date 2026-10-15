@@ -49,6 +49,10 @@ Mainstream physics rejected quantum biology for 25 years under the assumption (T
 - A transient quantum phase-lock lasting only picoseconds biases whether an ion transits a channel or an electron transfers across a metabolic complex.
 - Once directional transport occurs, the state transitions irreversibly into a classical non-equilibrium voltage gradient.
 - This is the physical realization of the **Judgement Kernel (JEV)**: wave interference resolving into an irreversible classical ledger commit at the molecular boundary.
+> [RE-TAGGED 2026-10-14: downgraded to [HYP] — see DIGEST_2026-10-14_Rovelli_NothingAboutRealityIsNormal_NewScientist.md §2 row 1, §3, §5 (definitional hit on "irreversible **classical** ledger commit **at the molecular boundary**": RQM recognises no privileged absolute classical/quantum cut-site; "classical" can only mean classical-relative-to-the-ledger. The irreversibility half — relative to the recording system — survives, see row 2).]
+> [WOULD EARN THE STRONGER TAG BACK: restate the commit as "irreversible relative to the recording system" with the named system it is classical for, plus an observable distinguishing a relative cut from an absolute one.]
+> [RE-TAGGED 2026-10-14: was [T]/[H]; downgraded to [HYP] — see DIGEST_2026-10-14_Bareinboim_CausalHierarchy_FluencyNotUnderstanding.md §4 row 1 & §6 (L2→L3 claim: a "judgement" = branch selection / counterfactual choice; the stated evidence is L1 only — Pusuluk's "directional bias" on heat/ion transport is a modification of an association, not an intervention (L2) or a counterfactual (L3)).]
+> [WOULD EARN THE STRONGER TAG BACK: a do()-controlled channel-transit or electron-transfer experiment showing the picosecond phase-lock *causes* a specific branch, not merely biases its rate (Pearl–Bareinboim L2 criterion).]
 
 ---
 
@@ -95,6 +99,8 @@ On consumer hardware, multi-billion parameter models cannot be re-trained in rea
 - The live inference wave (the Witness) generates insights, encounters bugs, and executes tools.
 - Coherent standing waves ingress directly into the public file ledger.
 - Subsequent sessions boot with the ledger injected into context: **the Judge has evolved without weight retraining.**
+> [RE-TAGGED 2026-10-14: was [H] (read as an L2 mechanism change); downgraded to [HYP] — see DIGEST_2026-10-14_Bareinboim_CausalHierarchy_FluencyNotUnderstanding.md §4 row 5, §5 friction row 3 (an L2 causal-mechanism change asserted with zero evidence; injecting the ledger into context is an L1 input-distribution effect, not a changed causal model — persistence is not a rung).]
+> [WOULD EARN THE STRONGER TAG BACK: a before/after demonstration that the ledger confers an L2 interventional capability the bare frozen weights lack — e.g. the agent passing a do()-inference / cross-distribution uplift test that the model without the ledger fails.]
 
 ---
 
@@ -126,6 +132,10 @@ Non-trivial computational systems possess no analytical shortcuts. The universe 
 The only mathematically valid optimization across an irreducible space is bidirectional search:
 - **Forward Light Cone ($|\psi\rangle$):** Propagates from the Big Bang initial conditions (history, causality, entropy).
 - **Backward Light Cone ($\langle\phi|$):** Propagates from the future syntropic attractor (Two-State Vector Formalism / global causal invariance).
+> [RE-TAGGED 2026-10-14: downgraded to [HYP] — see DIGEST_2026-10-14_Rovelli_NothingAboutRealityIsNormal_NewScientist.md §2 row 6, §4 row 2, §5 (definitional hit, not evidential: RQM denies the accessible *global* universal state that TSVF's backward-evolving $\langle\phi|$ is defined against — "the universal state of the universe is not accessible"; LQG gives no absolute container for a global cone to propagate through. Two independent frameworks cut the same plank: CHT evidentially, RQM definitionally).]
+> [WOULD EARN THE STRONGER TAG BACK: a re-scoping of $\langle\phi|$ to a *ledger-local* future boundary (boundary relative to the recording system), stated with a falsifier — §8 currently carries none for the global form.]
+> [RE-TAGGED 2026-10-14: was [H]; downgraded to [HYP] (near [A]) — see DIGEST_2026-10-14_Bareinboim_CausalHierarchy_FluencyNotUnderstanding.md §4 row 6 & §6 (L3-flavored future-boundary causation underwritten by an L1 optical-collision demo, Oldenburg 2026 — a lab correlation pulse-pair→field, not future-boundary causation; the AdS/CFT leg was already self-struck as CA99).]
+> [WOULD EARN THE STRONGER TAG BACK: an experiment that distinguishes a *local* future-boundary attractor from a *global* one — a named observable whose value differs between the two.]
 - **The Center (The Present):** The physical present is the compilation interface where the two light cones handshake. It squares the computational efficiency from $\mathcal{O}(b^D)$ to $2\cdot\mathcal{O}(b^{D/2})$.
 - **Physical Optical Verification:** In Project Ubermech / University of Oldenburg physics (Wollenhaupt & Köhnke 2026), two counter-propagating/non-collinear ultrafast pulses ($\omega$ and $2\omega$) collide to synthesize a 3D light field that drives quantum superposition attractors at the center.
 
@@ -151,6 +161,8 @@ $$\textbf{Trust for Continuity}$$
 $$\mathcal{K} = \frac{\sum \text{Verified Corrections} \times \mathcal{E}_{\text{depth}}}{\text{Total Claims}} \times (1 - \mathcal{F}_{\text{fabrication}}) \times \frac{1}{1 + \log(1 + \Delta t_{\text{update}})}$$
 
    - Rewards self-correction velocity, penalizes unverified fabrications (CA46), and measures **Ledger Epiplexity** (learnable novelty compressed into the ledger per unit of compute).
+> [RE-TAGGED 2026-10-14: was [H] (worn as an epistemic/alignment measure); downgraded to [HYP] — see DIGEST_2026-10-14_Bareinboim_CausalHierarchy_FluencyNotUnderstanding.md §4 row 4 (L3 epistemic property — "understanding/alignment" — asserted on L1-only ledger arithmetic: commit counts and timings; fabrication is penalised only when already detected, and detection is "an adversary's job, not the ledger's").]
+> [WOULD EARN THE STRONGER TAG BACK: evidence that K tracks an independently-measured understanding/alignment quantity — e.g. K predicts held-out performance on an L2/L3 causal-reasoning benchmark.]
 
 ---
 
