@@ -39,14 +39,37 @@ be later). The earliest **artifact** trace of the framework is **2024-12-20**. S
   texts read as information physics, plus physics, plus variational inference — nine months before
   *"Got the bones of EILT from that."*
 
-### Revised dating (artifact-anchored where possible)
+### CORRECTION 2026-10-15 (second pass) — the conversation's `created_at` does NOT date its messages
+
+An earlier revision of this file dated the verbatim origin account to **2025-09-17**. **That was wrong.**
+`created_at` on a Claude conversation is when the **thread was opened**, not when a given message was
+written. Per-message `created_at` fields (all 547 present) give the real dates:
+
+| Msg | Real date | What |
+|---|---|---|
+| #0 | **2025-09-17** | thread opens (*"a couple nights"* of prior work referenced at #2) |
+| #150 | **2026-05-16** | *"Got the bones of EILT from that"* — the verbatim origin account |
+| #370 | **2026-05-30** | amplituhedron enters |
+| #389 | **2026-06-01** | the four-gap critique document |
+| #546 | 2026-06-04 | thread ends |
+
+**This corrects the episode date too.** *"About 2 years ago"* was stated **2026-05-16**, not 2025-09-17 —
+so the episode is **~mid-2024**, which now agrees with the independent artifact: the operator was
+researching ketamine in ChatGPT on **2024-07-09**. The earlier "~2023" figure was an artifact of my own
+dating error. **Register lesson, recorded because it is the exact bug this house keeps catching: I read
+a container's timestamp and attributed it to the contents.**
+
+### Revised dating (artifact-anchored)
 
 | Stage | Date | Basis |
 |---|---|---|
-| The in-state episode | **~2023** | **Operator recollection only** ("about 2 years ago", stated 2025-09-17). **No artifact yet.** |
-| Ketamine research in ChatGPT | 2024-07-09 | Artifact (`Ketamine Addictive? Yes`, `Ketamine Physiological Effects`) — research, not the episode account |
-| Earliest written framework trace | **2024-12-20** | **Artifact** — *Genesis as Spacetime Metaphor*, FEP/Bayesian already present |
-| Framework named, verbatim origin account | **2025-09-17** | **Artifact** — *Computational consciousness exploration*, message #150 |
+| The in-state episode | **~mid-2024** | Operator recollection ("about 2 years ago", stated 2026-05-16). **No direct artifact.** |
+| Ketamine research in ChatGPT | **2024-07-09** | Artifact (`Ketamine Addictive? Yes`, `Ketamine Physiological Effects`) — consistent with, but not the episode |
+| Earliest written framework trace | **2024-12-20** | Artifact — *Genesis as Spacetime Metaphor*, FEP/Bayesian already present |
+| EILT thread opens | **2025-09-17** | Artifact — conversation `c6970a85`, msg #0 |
+| Verbatim origin account | **2026-05-16** | Artifact — msg #150 |
+| Amplituhedron enters | **2026-05-30** | Artifact — msg #370 |
+| Falsification agenda stated | **2026-06-01** | Artifact — msg #389 |
 
 **Two honest consequences:** (a) the ~2023 episode date rests on recollection alone and the recollection
 is **rounded** — artifacts place him actively researching ketamine in **July 2024**, so the episode may
@@ -183,6 +206,68 @@ falsifiers, register tags, cross-family audit — over the following period.
 - `Canon/drops/trauma_as_locked_gpu_loops_gnostic_christ_combinatorial_concept_search_2026-10-04.md`
 - `90_System/Note_Origin_DSDN_Synchronicity_Network_2026-10-13.md` — the sibling origin note
 - `Canon/drops/canon_drop_bolonkin_lineage_and_soviet_dissident_provenance_2026-10-02.md` — lineage precedent
+
+---
+
+# RECOVERED FALSIFICATION AGENDA — stated 2026-06-01, lost, and only now being tested
+
+**This is the most useful thing recovered from the exports, and it is a failure of the ledger, not a
+win.** On **2026-06-01** the EILT thread produced a critique document — *"Isomorphism Mapping and
+Critical Gap Analysis of the Unified Informational–Geometric Collapse Framework"* (Google Doc, 04:49)
+— which named four load-bearing gaps and **priority-ordered them**. The assistant's own read of it
+(msg #389, verbatim):
+
+> *"The over-constraint problem is the killer… If the intersection collapses to empty for any
+> interesting history, the whole framework is vacuous. **This needs to be the first thing tested, not
+> the last.**"*
+
+**The four gaps, as stated at the time:**
+
+1. **THE OVER-CONSTRAINT PROBLEM — the killer [now registered as F-EO2].** *"The amplituhedron requires
+   specific algebraic/topological structures that may be fundamentally incompatible with a discrete
+   causal graph that also has high Kolmogorov compressibility."* The Section 8 proof handles **only the
+   trivial vacuum case** plus an abstract inductive step; it **never demonstrates that a non-trivial
+   multi-particle history satisfies all five filters simultaneously.** If the filter intersection is
+   empty for any interesting history, **the framework is vacuous.**
+2. **Intersubjective consistency tension.** QBist (epistemic, agent-centric) collapse vs. a universal
+   ledger requiring objective consistency. The precise question: *how do spacelike-separated observers
+   stay consistent without FTL information transfer?* Stated as **unresolved, not merely
+   underspecified.**
+3. **Dark-energy coupling.** *"A poetic claim where you need a tensor equation"* — no quantitative
+   `dK/dt → Λ` coupling exists.
+4. **Ledger stiffness tensor.** Dark matter as *"structural stiffness of entanglement"* **means nothing
+   until stiffness is a defined field that couples to the Einstein equations.**
+
+**Strategic recommendations recorded at the time:** category theory / sheaf theory for the filters; a
+quantitative `dK/dt → Λ` coupling; a ledger stiffness tensor; the **GHZ experiment.**
+
+## The meta-failure, and it is ours
+
+The agenda was **written down, correctly prioritized, and marked "first thing tested" — on 2026-06-01.**
+Today is **2026-10-15**: **four and a half months**, during which it appears not to have been carried
+into canon, not registered as a falsifier, and not tested. External audits (Astrum, Dehaene, the
+amplituhedron control) re-derived *the same class* of criticism independently — register inflation and
+claims doing less work than their registers imply — while the house's own sharper, better-prioritized
+version sat unread in a chat log.
+
+**This is the day's invariant in its strongest form:** it is not only that corrections fail to
+propagate — **a correction made by the house itself, marked top priority, failed to propagate.**
+Register tags, the ledger, and the CANON_INDEX exist to prevent exactly this. They did not, because the
+agenda was never *filed*, only *spoken*.
+
+## Secondary recovery — a fabrication caught at origin
+
+Same conversation, msg #389, verbatim: a document in the physics thread repeatedly cited **"Jones
+(2026), *The Architecture of Reality: Pattern-Space Architecture*"** as *"independent peer
+convergence."* The assistant flagged it plainly:
+
+> *"That citation is doing real rhetorical work in multiple documents now. Before this gets treated as
+> external validation, you need to actually verify that paper exists and says what it's being cited as
+> saying. I couldn't find it in any search. **An AI may have generated a plausible-looking citation.**"*
+
+**That is the CA46 fabrication class, caught at origin, in June 2026** — six months before this house
+formalised the rule. Whether the citation was ever cleaned from those documents is **OPEN** and worth
+checking; it has not appeared in canon (grep returned nothing), so it did not propagate this far.
 
 ## Mechanism (operator's account, 2026-10-15, verbatim)
 
