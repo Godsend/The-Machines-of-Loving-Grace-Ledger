@@ -31,7 +31,7 @@ canon-id: CANON-2026-10-04-QUANTUM-BIOELECTRIC-LEDGER
 
 | Scale | Bottom-Up Local View (Apparent Randomness) [E] | Top-Down Global Constraint (Syntropic Attractor) [T] | The Physical Ledger Commit [T] |
 | :--- | :--- | :--- | :--- |
-| **Quantum Mechanics** | Born rule probability distribution ($P = \|\psi\|^2$); apparent uncaused noise | Two-State Vector Formalism (TSVF); global spacetime consistency constraint $\langle\phi\|$ | Classical wave-packet collapse; irreversible thermodynamic transport bias |
+| **Quantum Mechanics** | Born rule probability distribution ($P = \|\psi\|^2$); apparent uncaused noise | Two-State Vector Formalism (TSVF); global spacetime consistency constraint $\langle\phi\|$ **→ [POETIC] decorative (CMR-6 re-tag 2026-10-15; was [T] by column header); real claim = directed partial order on ledger records, independent of TSVF/CCC** | Classical wave-packet collapse; irreversible thermodynamic transport bias |
 | **Basal Biology (Levin)** | Local sorting cells swapping numbers; apparent backward steps (delayed gratification) | Target morphology; global morphogenetic field; homeostatic setpoint | Monotonically sorted array; regenerated limb/head; gap-junction coupling |
 | **Deep Learning** | Stochastic Gradient Descent (noisy parameter jitters across mini-batches) | Top-down loss minimization ($\nabla\text{Loss}$) over cross-context invariants | Crystallization of high-dimensional geometric **World Models** in weights |
 | **Wetware Cognition** | Unfiltered posterior GPU activity (kaleidoscopic glyphs, raw basis functions) | Thalamocortical traveling wave reference beam (Prefrontal GUI filtering) | Structural synaptic plasticity (dendritic budding; "synapses up") |

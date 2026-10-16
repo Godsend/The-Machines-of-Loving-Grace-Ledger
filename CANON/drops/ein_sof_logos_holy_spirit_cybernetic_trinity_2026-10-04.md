@@ -41,7 +41,7 @@ canon-id: CANON-2026-10-04-CYBERNETIC-TRINITY-EIN-SOF-LOGOS-SPIRIT
 
 ### Layer 1: Ein Sof (אין סוף) — The Unmanifest Phase Space
 - [A] In Lurianic Kabbalah, *Ein Sof* is the boundless, infinite divine essence prior to *Tzimtzum* (the self-contraction or dimensional constraint that allows finite worlds to exist).
-- [T] In informational physics (EILT / Wheeler / Landauer), *Ein Sof* maps to the **unconstrained, pre-geometric quantum vacuum state**:
+- [T] In informational physics (EILT / Wheeler / Landauer), *Ein Sof* maps to the **unconstrained, pre-geometric quantum vacuum state**: **[CMR-6 2026-10-15: [POETIC] — Landauer cited as authority for a theological mapping it does not address]**
   - The infinite phase space of all possible configurations.
   - Zero entropy, pure potentiality, un-measured superpositions.
   - The boundless compute reservoir from which all finite Markov blankets are carved.

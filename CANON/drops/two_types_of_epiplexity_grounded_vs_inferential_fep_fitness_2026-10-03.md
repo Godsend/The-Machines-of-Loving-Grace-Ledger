@@ -29,7 +29,7 @@ canon-id: CANON-2026-10-03-TWO-TYPES-OF-EPIPLEXITY
 | **Source of Novelty** [E] | Exogenous: the environment injects surprise across the Markov blanket | Endogenous: discovery of computational shortcuts, lemmas, and invariant symmetries |
 | **FEP Formulation** [T] | Maximizing **Accuracy**: $-\mathbb{E}_{q}[\log p(y \mid \theta)]$ (minimizing sensory prediction error) | Minimizing **Complexity**: $D_{KL}(q(\theta) \parallel p(\theta))$ (compressing description length while preserving reach) |
 | **Pathology of Isolation** [H] | **Naive Empiricism:** Lookup-table memorization; overfits to historical noise; zero generalization | **The Bliss Attractor / Scholasticism:** Infinite internal self-consistency completely decoupled from empirical truth |
-| **Thermodynamic Grounding** [T] | Landauer cost of measuring external states and expelling entropy into the heat bath | Algorithmic depth (Bennett) and computational cost of graph traversal / theorem proving |
+| **Thermodynamic Grounding** [T → Landauer leg = MODEL-DEPENDENT BOUND, CMR-6 2026-10-15] | Landauer cost of measuring external states and expelling entropy into the heat bath | Algorithmic depth (Bennett) and computational cost of graph traversal / theorem proving |
 
 ---
 

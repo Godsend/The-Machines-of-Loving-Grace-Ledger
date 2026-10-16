@@ -83,7 +83,7 @@ Restricted to the canonical 7-register vocabulary. Every tag was diffed against 
 - **Commit log:** synaptic plasticity. A wave that does not commit is a thought that did not happen, causally.
 - **Salience switchboard:** anterior insula / ACC gating which posterior wave packets get prefrontal GUI access. Anesthesia clinically reads out as anterior-posterior *disconnection* (Mashour), i.e. the switchboard goes dark before the posterior GPU does.
 - **Intersectional Law:** $\mathcal{C} = \bigcap \mathcal{I} \propto \mathcal{L}_{\text{cog}}$ — consciousness ingresses at the phase-locked intersection of streams, scaling with the cognitive light cone.
-- **Ledger:** append-only; the Non-Rolling Ledger is the mechanism by which a moment acquires an arrow of time.
+- **Ledger:** append-only; the Non-Rolling Ledger is the mechanism by which a moment acquires an arrow of time. **[CMR-6 2026-10-15: [AMBIGUOUS — needs author call] — 'ledger/rules produce the arrow' is the move Al-Khalili calls "the wrong way around" (`drops/DIGEST_2026-10-15_JimAlKhalili_ArrowOfTimeFundamental_CurtJaimungal.md`); the ledger architecture needs only a directed partial order on records, not a verdict on whether the arrow is fundamental or emergent]**
 
 ---
 

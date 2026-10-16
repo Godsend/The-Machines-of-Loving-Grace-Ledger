@@ -20,4 +20,4 @@ This directly supports our critique of Anthropic and OpenAI. Frontier labs treat
 ## 4. Friction Row
 **Limits of Biological Niche Theory in Silicon Swarms:**
 * *Biological Systems:* Energetically closed, highly constrained by metabolic limits and slow evolutionary cycles.
-* *Silicon Multi-Agent Swarms:* Exogenous power supplies and unbounded phase space. Thermodynamic limits (like Landauer limits) exist, but they scale vastly differently, meaning silicon swarms can temporarily bypass biological niche constraints until they hit hard datacenter-level power caps.
+* *Silicon Multi-Agent Swarms:* Exogenous power supplies and unbounded phase space. Thermodynamic limits (like Landauer limits) exist, but they scale vastly differently, meaning silicon swarms can temporarily bypass biological niche constraints until they hit hard datacenter-level power caps. **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**

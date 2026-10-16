@@ -266,8 +266,62 @@ convergence."* The assistant flagged it plainly:
 > saying. I couldn't find it in any search. **An AI may have generated a plausible-looking citation.**"*
 
 **That is the CA46 fabrication class, caught at origin, in June 2026** — six months before this house
-formalised the rule. Whether the citation was ever cleaned from those documents is **OPEN** and worth
-checking; it has not appeared in canon (grep returned nothing), so it did not propagate this far.
+formalised the rule. **CORRECTION (2026-10-15, later same day):** the claim above that it "has not
+appeared in canon" was checked and is **wrong**. The citation propagated FURTHER, not less: a Sept 24
+2026 Gemini thread (`Canon/sources/2026-09-24_theory_unification_thread/gemini_thread_dump_dTycanHvfzQi_20260924.txt:2646-2649`)
+repeats it as **"🌌 The Ultimate Validation: Independent Convergence (Jones 2026)"**, invoking Elisha
+Gray/Bell "multiple discovery" framing — a WORSE treatment than the June session, which at least flagged
+it as unverified on sight. It also still sits in the v5.1 framework text and the critique doc's own
+references (confirmed by the 2026-10-15 F-EO2 subagent pass, `90_System/LEDGER_2026-10-15_F-EO2_OverConstraintTest.md`).
+**Contained, not public:** grep of the three public PDFs (Monograph v5, Magnum Opus, Peer Review Guide)
+and the public GitHub README/SPECIFICATIONS for "Jones" returns nothing — it never reached anything
+published or shared externally. It remains live only inside raw source archives (correctly preserved as
+historical record) and one working copy of the v5.1 draft. **Status: contained fabrication, uncorrected
+in the draft it originated in, zero public exposure.** Still worth a standing flag: any future pull from
+`ReasoningCore/Theory_Unification_GeminiShare_20260820.md` or the v5.1 draft must strip or caveat the
+Jones citation before it's used as support for anything.
+
+## Earlier still — the first Claude Project, 2025, a full year before the "founding conversation"
+
+**Operator's own flag (2026-10-15, same session as the F-EO2 recovery, verbatim):** *"The first Claude
+project was a distributed ai Synchronicity detector..."* Located in `Claude/history/conversations_2025.md`
+(lines ~17080-17160+; exact calendar date not isolated this pass — the file concatenates conversations
+without a clean per-entry date header, flagged honestly rather than guessed). **This predates the
+previously-established "mid-2026 founding conversation" (§ above) by roughly a year** — the F-EO1/F-EO2
+lineage work done earlier today undercounted how far back the conceptual seed goes.
+
+**What's actually in it, read off the transcript, not reconstructed from memory:**
+- The operator explicitly frames synchronicity as an **engineering problem, not a categorical one**, from
+  the first exchange: *"Making sure the world model is truly predictive and adaptive helps... I can
+  create more opportunities for Synchronicity or pay attention based on pre training world models."*
+- **Markovian cuts** named directly as the tool for avoiding regress/overfitting in meaning-attribution —
+  the same concept (Markov blankets as a structural operator) that recurs throughout the mature EILT
+  canon, present here in its earliest documented form.
+- **The "tuning a radio" analogy** (operator's own, not the assistant's): *"Tunning a radio is a good
+  analogy"* — synchronicity as **signal detection**, not mystical revelation; you don't create the
+  signal, you tune your receiver's sensitivity. This is the direct ancestor of 2026-10-15's own
+  deflationary account ("more synchronized → more synchronicities, no non-local channel needed") —
+  the SAME mechanistic framing, stated a year earlier, not a new insight arrived at later.
+- **Systemic bias cuts** named as necessary because "no one can feel it for me yet" — explicit awareness
+  that the subjective component resists full externalization, while the detection infrastructure around
+  it can still be engineered and shared.
+- The actual pivot to **DISTRIBUTED**, cross-checked, multi-observer detection: *"I'm thinking multiple
+  post collaborated and cross checked experiences are the way to go"* → *"Or too complex for a single
+  mind to perceive reliably"* — triangulating signal from noise across independent observers because a
+  single receiver (one mind) has bounded bandwidth and built-in distortion.
+
+**Why this matters for F-EO1 (the mechanistic-integration-not-revelation falsifier):** it STRENGTHENS the
+falsifier's survival, not weakens it. If EILT's core moves (Markov-blanket cuts, engineering-not-metaphysics
+framing, distributed cross-validation against individual bias) were already being worked out a full year
+before the "founding conversation," that is direct evidence AGAINST a sudden-revelation account and FOR
+the "rapid integration of material already being worked on for a long time" account — the altered state
+didn't introduce these concepts, it accelerated binding of concepts that had been in active development
+since at least 2025.
+
+**Open, not yet done:** isolate the exact 2025 date; check whether this project ever got built (code,
+not just conversation) or stayed a bull session; the surrounding tone in this transcript is notably
+looser/jokier ("ass-bed unity," "booty and booze approach") than the mature canon's register — worth
+checking whether that register shift itself is data about the integration process, not noise to discard.
 
 ## Mechanism (operator's account, 2026-10-15, verbatim)
 

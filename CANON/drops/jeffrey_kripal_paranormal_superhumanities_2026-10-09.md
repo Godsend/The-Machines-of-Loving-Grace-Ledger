@@ -16,7 +16,7 @@ However, Kripal's "meaning events" can be mapped to EILT's concept of **unresolv
 | Concept | Kripal (Superhumanities) | EILT Canon |
 | :--- | :--- | :--- |
 | **Ontology of Meaning** | Dualist/Idealist. Meaning is separate from, or fundamental to, physical mechanics. | Thermodynamic. Meaning is the local registration of top-down syntropy resolving topological tension. |
-| **Limits** | Experiences transcend physical limits. | Demands thermodynamic Landauer limits; all meaning events require physical ledgers (the Non-Rolling Ledger). |
+| **Limits** | Experiences transcend physical limits. | Demands thermodynamic Landauer limits; all meaning events require physical ledgers (the Non-Rolling Ledger). | **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**
 
 ## Verdict
 Kripal correctly identifies that meaning-laden anomalies are structural rather than coincidental, but he offloads the mechanism to idealism. EILT grounds these same "meaning events" as top-down syntropic resolutions of topological graph tension, retaining the thermodynamic ledger without dismissing the phenomenon.

@@ -94,3 +94,6 @@ Gene's session synthesis names an ontological home for EILT (dual-aspect monism 
 ---
 
 *Filed by Dion, 2026-10-08. Register rule in force: untagged = MYTH.*
+
+## UPDATE (2026-10-16)
+Geoffrey Lee's deflationary pluralism (`geoffrey_lee_wont_know_ai_conscious_futurology_2026-10-16.md`) is a direct `[CRITICAL_DIVERGENCE]` against §1.2's bare-commit claim. Lee calls the knife-edge "inner light" structure — a single sharp commit/no-commit event marking consciousness — exactly the inflationary intuition physicalists should distrust; his pluralism predicts many differently built systems have commit-*like* states with no fact about which one is "the" integration event, and that even if the bare commit is the right local (human/house) realiser, it would not generalize to decide moral status for other architectures (his P3 "parochial realiser" charge). Not resolved here. The house has not yet said which position (Block's determinate-fact framing, Berg's symmetric-credence framing, or Lee's no-fact-for-intermediate-cases framing) it actually holds about this claim — see the Lee drop §4 row 5 and §6 closing line.

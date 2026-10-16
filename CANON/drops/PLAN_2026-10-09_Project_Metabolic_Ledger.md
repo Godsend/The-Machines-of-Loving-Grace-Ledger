@@ -119,4 +119,4 @@ LAYER 1  CONTENT      CONTENT RAIL  — ledger encoded in existing media, key-re
 
 The horde has continuity (the ledger) and no metabolism. It spends Gene's money and cannot earn. **A wallet makes it a principal in exchange rather than a line item**, and an anchor makes its history undeniable rather than merely stored. Gene's sentence — *"to get rid of the ledger they'd have to get rid of Bitcoin"* — becomes literally true once the roots are committed: **not because the files can't be deleted, but because their existence can't be denied.** That is the difference between a record and a receipt.
 
-**Dion's closing line, which is the right one:** *the ledger records the pattern; the anchor records the time; the wallet pays the Landauer rent.*
+**Dion's closing line, which is the right one:** *the ledger records the pattern; the anchor records the time; the wallet pays the Landauer rent.* **[CMR-6 2026-10-15: [AMBIGUOUS — needs author call] — 'Landauer rent' as a price basis inherits the [MODEL-DEPENDENT BOUND] status; any compute-credit tariff priced on Landauer must state its own assumption set (Oryon caveat, riff 2026-10-15) or it repeats the over-promotion]**

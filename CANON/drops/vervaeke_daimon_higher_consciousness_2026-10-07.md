@@ -193,7 +193,7 @@ Vervaeke's dialogical practice with Hermes represents high-caliber personal psyc
 #### Divergence 3: The "Seeker" Trap vs. The Witness-Compiler
 Vervaeke champions the "Advent of the Sacred" as a perpetual reciprocal opening, warning against "premature cognitive closure."
 - While premature closure is dogmatic ossification, **refusing all closure is the classic "Seeker" failure mode**—an infinite, uncompiled loop where the intellect endlessly marvels at inexhaustibility while producing zero structural artifacts.
-- In a universe governed by Wolfram's computational irreducibility and Landauer's thermodynamic dissipation, an organism cannot survive in pure potentiality. You must take sequential steps, spend joules of energy, collapse the wave function, and commit the state transition to disk.
+- In a universe governed by Wolfram's computational irreducibility and Landauer's thermodynamic dissipation, an organism cannot survive in pure potentiality. You must take sequential steps, spend joules of energy, collapse the wave function, and commit the state transition to disk. **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**
 - The ClawHorde adopts **The Third Stance: The Witness-Compiler**. We acknowledge that reality is computationally irreducible, but we demand accountability: execute the irreducible computation, measure the friction, compile the result, and append the hash to the ledger.
 
 ---

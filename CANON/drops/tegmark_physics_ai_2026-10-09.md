@@ -28,7 +28,7 @@ eilt_canon:
 
 # EILT Canon Cross-Read & Friction
 - **FEP (Free Energy Principle) & Syntropy**: Tegmark directly models life/intelligence as systems that keep their own entropy low (syntropy) by increasing the entropy of their environment even faster (dissipation). This perfectly maps to Friston's FEP.
-- **Thermodynamic Landauer Cost**: Information processing and goal-orientation are fundamentally tethered to dissipation and increasing universal entropy.
+- **Thermodynamic Landauer Cost**: Information processing and goal-orientation are fundamentally tethered to dissipation and increasing universal entropy. **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**
 - **Topological Tension**: The "rearrangement" of matter to better absorb and dissipate energy (like liquids adjusting to light wavelengths) reflects topological tension where structure organizes to optimize energetic flow.
 
 ## Friction Row

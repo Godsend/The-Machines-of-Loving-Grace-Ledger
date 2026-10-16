@@ -14,7 +14,7 @@ tags: ["physics", "ai", "formalization", "thermodynamic Landauer cost", "diffusi
 # Friction Row (Cross-read against EILT Canon)
 | Canon Concept | Friction / Intersection |
 | :--- | :--- |
-| **Thermodynamic Landauer cost** | Gorard explicitly includes thermodynamic stability testing in Lanyon's DSL constraints. This aligns with treating physical reasoning as subject to ledger-bound computation costs, pushing back against unconstrained mathematical physics. |
+| **Thermodynamic Landauer cost** | Gorard explicitly includes thermodynamic stability testing in Lanyon's DSL constraints. This aligns with treating physical reasoning as subject to ledger-bound computation costs, pushing back against unconstrained mathematical physics. | **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**
 | **Diffusion/backprop cosmology** | Gorard views the base model (whether transformer or diffusion) as merely a generator of hypotheses; the "cosmology" of the problem solving lies in the rigorous RL and physical typing harness (the selective environment). |
 | **Syntropy / Metanoia** | The disruption of the "sociology" of academia (justifying process by output) points to a metanoic shift where AI decoupling process from product forces physics to re-justify its intrinsic syntropic value. |
 

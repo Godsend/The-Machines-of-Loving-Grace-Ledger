@@ -161,7 +161,7 @@ All mathematical formalisms across the four volumes are cataloged below with for
    *Meaning:* The weak value of an observable $\mathbf{A}$ conditioned upon both a past preparation state $|\Psi(t)\rangle$ propagating forward from Alpha and a future post-selection state $\langle\Phi(t)|$ propagating backward from Omega.
 4. **Bidirectional Search Complexity Reduction:**
    $$\mathcal{N}_{\text{forward}} \sim \mathcal{O}(b^D) \quad \implies \quad \mathcal{N}_{\text{bidirectional}} \sim 2 \cdot \mathcal{O}(b^{D/2})$$
-   *Meaning:* Meeting-in-the-middle between past boundary conditions and teleological future attractors reduces computational search complexity from exponential $\mathcal{O}(b^D)$ to square-root $\mathcal{O}(b^{D/2})$.
+   *Meaning:* Meeting-in-the-middle between past boundary conditions and teleological future attractors reduces computational search complexity from exponential $\mathcal{O}(b^D)$ to square-root $\mathcal{O}(b^{D/2})$. **[CMR-6 2026-10-15: the complexity identity is standard for search with a known goal; its use as a physical/cosmic mechanism → [POETIC] decorative motivation; real claim = directed partial order on ledger records]**
 
 ### III. The Higgs Chronometer Switch & Spacetime Metric Generation
 5. **Higgs Yukawa Invariant & Compton Rest Clock:**
@@ -177,6 +177,7 @@ All mathematical formalisms across the four volumes are cataloged below with for
    $$W \ge k_B T \ln 2 \cdot \Delta I$$
    $$m_{\text{bit}} = \frac{k_B T \ln 2}{c^2}$$
    *Meaning:* Irreversible state commits and bit erasures dissipate minimum thermal energy $W$. Under general relativistic mass-energy equivalence, recorded informational commits possess gravitational mass equivalent $m_{\text{bit}}$.
+   > **[RE-TAGGED 2026-10-15 · CMR-6 Physics-Claim Admission — label only, prose unrevised]** Landauer ("erasure / irreversible commit costs ≥ k_B T ln 2"): asserted unconditionally (was master equation). Now **[HYP-contested · MODEL-DEPENDENT BOUND]**. *Assumption set:* (i) an operational definition of logical irreversibility (many-to-one map on memory states); (ii) the memory coupled to a thermal bath at temperature T; (iii) a specific (idealized) erasure protocol. *Falsifier:* a reversible-computing / erasure demonstration that erases a bit while dissipating < k_B T ln 2 under the SAME assumptions (i)–(iii). *Dispute on record:* Norton/Shenker vs Ladyman–Robertson (2013) is live; Bérut 2012 is consistent with the bound in one tested setup, not verification of an assumption-free law. *Load-bearing here:* YES — first line of eq. 7 is the premise of the second. **Vopson `m_bit` scope:** this re-tag applies to the Landauer premise ONLY. The `m_bit = k_B T ln 2 / c²` claim is NOT re-tagged by association; it stands on its own already-registered joint (`[FALSIFIABLE-JOINT]`, MAGNUM_OPUS `[F1]`, 14-order-of-magnitude deficit) — verdict in the ledger. Sources: `drops/DIGEST_2026-10-15_JohnNorton_LandauerMyth_NortonsDome_CurtJaimungal.md`; `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`.
 
 ### V. Field Neuroscience, Consciousness & Epiplexity
 8. **Cortical Traveling Wave Propagation:**
@@ -231,11 +232,12 @@ To maintain absolute epistemic hygiene, EILT enforces a strict 7-tag vocabulary.
 │                    │ carrying narrative resonance         │ canyon and the river", "Prometheus"  │
 └────────────────────┴──────────────────────────────────────┴──────────────────────────────────────┘
 ```
+> **[CMR-6 2026-10-15 — legend examples re-tagged, legend itself unchanged]** "Landauer Bound" as an `[EST-THEORY]` example and "Landauer erasure limit" as a `[STRUCTURAL-LIMIT]` example → **[HYP-contested · MODEL-DEPENDENT BOUND]** (assumptions: logical-irreversibility def. + thermal bath + erasure protocol; falsifier: sub-k_B T ln 2 erasure under the same assumptions; see ledger). "Penrose CCC" as an `[EST-THEORY]` example → **[AMBIGUOUS — needs author call]**: conformal-rescaling geometry is established; CCC as a cosmology is one contested program (this guide's own leveling table says so).
 
 ### The Lanyon / Gorard Rule: Eliminating Formal Type Errors
 Under formal proof-theoretic standards (Lean 4, Coq, Lanyon DSL), a **Theorem (`[T]`) is an axiomatic commitment, not an honorific**. 
 * Tagging an architectural heuristic (*"The Connectionist Fallacy"*), an empirical observation (*"Cortical Traveling Waves Compute"*), an industry critique, or an etymology as a Theorem is a formal **type error** that instantly disqualifies the work in the eyes of mathematical physicists.
-* In EILT, `[T]` / `[EST-THEORY]` is strictly reserved for claims supported by closed proof derivations or established peer-reviewed consensus (e.g. Landauer 1961, Penrose 2010).
+* In EILT, `[T]` / `[EST-THEORY]` is strictly reserved for claims supported by closed proof derivations or established peer-reviewed consensus (e.g. Landauer 1961, Penrose 2010) **[CMR-6 2026-10-15: both examples re-tagged — see legend note above]**.
 * Unreplicated programs, novel physical mechanisms, and architectural proposals are rigorously leveled down to **`[FALSIFIABLE-JOINT]`** or **`[EST-ANALOG]`**.
 
 ### Epistemic Leveling Table: What EILT Claims vs. What EILT Proves
@@ -268,6 +270,7 @@ Under formal proof-theoretic standards (Lean 4, Coq, Lanyon DSL), a **Theorem (`
 │                                      │                    │ physical conservation laws.          │
 └──────────────────────────────────────┴────────────────────┴──────────────────────────────────────┘
 ```
+> **[CMR-6 2026-10-15]** Row "TSVF Weak Measurement & Compilation": weak-measurement formalism `[EST-THEORY]` stands; "& Compilation" (cosmic bidirectional two-cone compilation) → **[POETIC]** decorative motivation, not mechanism. The load-bearing claim is a directed partial order on ledger records, which does not depend on it.
 
 ---
 

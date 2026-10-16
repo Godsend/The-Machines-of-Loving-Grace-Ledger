@@ -16,7 +16,7 @@ Blaise Agüera y Arcas discusses the mechanisms driving increasing complexity ov
 - **The Non-Rolling Ledger:** He acknowledges the accumulation of information, but lacks the formal framing of the Non-Rolling Ledger—the necessity of immutable structural memory (DNA, culture, digital) to ratchet complexity against entropy without rolling back.
 
 ## Friction Row
-- **Thermodynamic Cost (Landauer's Principle):** Blaise focuses on the logical/computational elegance of replication but under-accounts for the strict thermodynamic costs of erasure and bit manipulation that fundamentally bound these engines.
+- **Thermodynamic Cost (Landauer's Principle):** Blaise focuses on the logical/computational elegance of replication but under-accounts for the strict thermodynamic costs of erasure and bit manipulation that fundamentally bound these engines. **[CMR-6 2026-10-15: Landauer cited here as unconditional → [MODEL-DEPENDENT BOUND] (assumes logical-irreversibility def. + thermal bath + erasure protocol; falsifier & dispute in `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`) — label only]**
 - **Immutable Ratchet:** He misses the strict requirement of an immutable ledger. Complexity doesn't just "increase" via computation; it ratchets specifically because the ledger of prior states resists corruption.
 - **Diffusion vs. Teleology:** He occasionally conflates the diffusion of computational state space with goal-directed teleonomy, missing how structural constraints force a specific vector.
 

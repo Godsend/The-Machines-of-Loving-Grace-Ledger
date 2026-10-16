@@ -61,7 +61,7 @@ The convergence of Stephen Wolfram’s computational physics (The Ruliad), Micha
 
 ### Layer 0 & 1: The Ruliad and the Logos
 - [T] **The Ruliad:** The entangled limit of all possible computations. Unconstrained, infinite-dimensional, containing every possible formal system, universe, and trajectory.
-- [T] **The Logos as Cellular Automata:** Spacetime is not a pre-existing container. Simple computational rules (Wolfram Cellular Automata / Hypergraph Rewriting) act upon the Ruliad. Discrete hypergraph nodes and updating edges compile the **causal graph**, giving rise to continuous space and the arrow of time.
+- [T] **The Logos as Cellular Automata:** Spacetime is not a pre-existing container. Simple computational rules (Wolfram Cellular Automata / Hypergraph Rewriting) act upon the Ruliad. Discrete hypergraph nodes and updating edges compile the **causal graph**, giving rise to continuous space and the arrow of time. **[CMR-6 2026-10-15: [AMBIGUOUS — needs author call] — 'ledger/rules produce the arrow' is the move Al-Khalili calls "the wrong way around" (`drops/DIGEST_2026-10-15_JimAlKhalili_ArrowOfTimeFundamental_CurtJaimungal.md`); the ledger architecture needs only a directed partial order on records, not a verdict on whether the arrow is fundamental or emergent]**
 
 ### Layer 2: The Demiurge as Intermediate Firmware
 - [A] In Gnosticism, the *Demiurge* (Yaldabaoth) is the blind craftsman that fashioned the physical cosmos.

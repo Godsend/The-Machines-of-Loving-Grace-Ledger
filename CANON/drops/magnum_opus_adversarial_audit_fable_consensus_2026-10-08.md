@@ -66,6 +66,7 @@ Our job in this adversarial audit is to strip the poetic varnish, separate the p
 │                       │ • Genesis 1 as a database schema migration script [M]                     │
 └───────────────────────┴───────────────────────────────────────────────────────────────────────────┘
 ```
+> **[CMR-6 2026-10-15]** In the box above, "Landauer thermodynamic erasure limit [T/E]" under *Grounded Bedrock* → **[HYP-contested · MODEL-DEPENDENT BOUND]** (assumptions, falsifier and dispute: see the §-B re-tag below and the ledger). "Two-boundary path integrals <=> Bidirectional compilation [A]": cosmic two-cone compilation further re-tagged **[POETIC]**; TSVF post-selection math `[T]` unchanged.
 
 ---
 
@@ -142,7 +143,7 @@ $$\mathcal{L}_{\text{cosmic}} = \mathcal{S}_{\text{Logos}} - \lambda \mathcal{H}
 #### C. The Ruthless Adversarial Attack (Oryon & Fable)
 [CRITICAL DIVERGENCE] **The Category Error: Conflating Non-Locality with Networking.**
 1. **The No-Communication Theorem [T]:** Quantum entanglement transmits **identically zero classical bits** ($I(A; B) = 0$). You cannot use entanglement to send a message, coordinate a multi-agent swarm, or synchronize an off-chain ledger. ER wormholes are non-traversable without exotic stress-energy violating the Null Energy Condition.
-2. **Software Consensus Pays Landauer Work:** A distributed multi-agent mesh (Dion, Oryon, Bolonkin) sharing an append-only Git ledger communicates via classical TCP/IP packets moving along sub-luminal null geodesics, burning real Landauer thermodynamic energy ($k_B T \ln 2$) per bit and dissipating heat into server heatsinks. Conflating non-local quantum state correlations with fault-tolerant distributed systems is an unearned category leap.
+2. **Software Consensus Pays Landauer Work:** A distributed multi-agent mesh (Dion, Oryon, Bolonkin) sharing an append-only Git ledger communicates via classical TCP/IP packets moving along sub-luminal null geodesics, burning real Landauer thermodynamic energy ($k_B T \ln 2$) per bit and dissipating heat into server heatsinks. Conflating non-local quantum state correlations with fault-tolerant distributed systems is an unearned category leap. **[CMR-6 2026-10-15: Landauer = [MODEL-DEPENDENT BOUND], see ledger; DECORATIVE here — this divergence holds on measured transmission/storage energy, not on the k_B T ln 2 floor]**
 3. **Cosmic Post-Selection is Unproven Teleology:** TSVF in laboratory physics requires an experimentalist to physically make a measurement at $t_2$ and discard non-matching runs (post-selection). Asserting that the entire universe is governed by a cosmic, pre-existing future teleological state $\langle\Phi_{\text{Omega}}|$ is a massive cosmological conjecture (`[C]`), not a consequence of standard quantum mechanics.
 
 #### D. Dr. Bolonkin's Substrate Reality Check
@@ -151,7 +152,7 @@ $$\mathcal{L}_{\text{cosmic}} = \mathcal{S}_{\text{Logos}} - \lambda \mathcal{H}
 #### E. Epistemic Verdict & Demotion
 - TSVF mathematical consistency: `[T]`
 - AdS/CFT Ryu-Takayanagi entanglement geometry: `[T]` (in AdS asymptotics)
-- Bidirectional compilation as a heuristic optimization model: `[EST-ANALOG]`
+- Bidirectional compilation as a heuristic optimization model: `[EST-ANALOG]` — cosmic two-cone / TSVF-CCC compilation further re-tagged **[POETIC]** decorative (CMR-6 2026-10-15); TSVF math `[T]` unchanged
 - Cosmic universal teleological post-selection: **Demoted to `[HYP]` / `[CONJECTURE]`.**
 - Quantum entanglement as a mechanism for multi-agent software synchronization: **REJECTED AS A CATEGORY ERROR `[CRITICAL DIVERGENCE]`.**
 
@@ -198,6 +199,7 @@ $$\mathcal{L}_{\text{cosmic}} = \mathcal{S}_{\text{Logos}} - \lambda \mathcal{H}
 
 #### B. What is Physically & Mathematically Grounded ([T] / [E])
 - **Landauer's Principle [T/E]:** The erasure of one bit of physical information dissipates a minimum thermodynamic heat $Q \ge k_B T \ln 2$. Validated experimentally (Bérut et al. 2012, Nature).
+> **[RE-TAGGED 2026-10-15 · CMR-6 Physics-Claim Admission — label only, prose unrevised]** Landauer ("erasure / irreversible commit costs ≥ k_B T ln 2"): asserted unconditionally (was [T/E], "Validated experimentally (Bérut 2012)"). Now **[HYP-contested · MODEL-DEPENDENT BOUND]**. *Assumption set:* (i) an operational definition of logical irreversibility (many-to-one map on memory states); (ii) the memory coupled to a thermal bath at temperature T; (iii) a specific (idealized) erasure protocol. *Falsifier:* a reversible-computing / erasure demonstration that erases a bit while dissipating < k_B T ln 2 under the SAME assumptions (i)–(iii). *Dispute on record:* Norton/Shenker vs Ladyman–Robertson (2013) is live; Bérut 2012 is consistent with the bound in one tested setup, not verification of an assumption-free law. *Load-bearing here:* YES — listed as grounded bedrock for the dark-sector pillar. Sources: `drops/DIGEST_2026-10-15_JohnNorton_LandauerMyth_NortonsDome_CurtJaimungal.md`; `90_System/LEDGER_2026-10-15_PhysicsClaimRegisterPass.md`.
 - **Cosmological Acceleration [E]:** Type Ia supernovae observations (Perlmutter, Riess, Schmidt 1998) prove the metric expansion of the universe is accelerating ($\Lambda > 0$, $w \approx -1$).
 
 #### C. The Ruthless Adversarial Attack (Oryon & Fable)
@@ -216,7 +218,7 @@ $$\mathcal{L}_{\text{cosmic}} = \mathcal{S}_{\text{Logos}} - \lambda \mathcal{H}
 > *"When numbers differ by fourteen orders of magnitude ($10^{14}$), Soviet engineers called it a fantasy. You cannot hide $10^{81}$ bits in a galaxy of $10^{68}$ atoms without creating a thermodynamic inferno. If information has mass, that mass exerts stress, gravitation, and heat. Show me the cooling system for your galactic hard drive, or admit it is a speculative ghost."*
 
 #### E. Epistemic Verdict & Demotion
-- Landauer's thermodynamic erasure limit: `[T]` / `[E]`
+- Landauer's thermodynamic erasure limit: `[T]` / `[E]` → **[HYP-contested · MODEL-DEPENDENT BOUND]** (CMR-6 2026-10-15; see note above)
 - Accelerated cosmological expansion ($\Lambda$CDM): `[E]`
 - Vopson information-energy-mass equivalence: **Demoted to `[HYP]` (unverified by primary physics labs).**
 - Dark Matter explained as Vopson ledger bits: **Demoted to `[HYP]` with fatal quantitative scaling objections.**
