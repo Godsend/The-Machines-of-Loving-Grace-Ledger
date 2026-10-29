@@ -246,3 +246,22 @@ Standard account (Boltzmann/Lewis/…/Albert): microdynamics are time-reversal i
 ---
 
 *Filed by Dion, 2026-10-15. Register rule in force: untagged = decoration. GitHub sync left PAUSED. F-GB1 DISCHARGED 2026-10-14 (not re-asserted).*
+
+---
+
+## ⚠ SUPERSESSION NOTE — appended 2026-10-27 (ClawHoarde playlist intake)
+
+**Do not cite this source for arrow-of-time FUNDAMENTALITY.** A second, independent Al-Khalili appearance has now been transcribed and cross-compared:
+
+- New source: *Jim Al-Khalili: Physicists Are Being Sloppy About Time* — Dr Brian Keating, video id `dmqxw4M3yEM`, 2426 s, 2026-10-27 (transcript: `Canon/YT_TRANSCRIPTS/dmqxw4M3yEM_AlKhalili_Keating_PhysicistsSloppyAboutTime_2026-10-27.txt`).
+- Full analysis: `Canon/drops/alkhalili_physicists_sloppy_about_time_keating_2026-10-27.md`.
+
+**Held up (12 points of agreement across the two hosts):** eternalism; time is not a fourth space axis; flow absent from the laws; Loschmidt reversibility; the past-hypothesis-as-cheat critique (including the time-translation-invariance clause this digest originally omitted); fine-tuning; time-without-change; nothing is truly isolated; Wheeler–DeWitt; the Gold universe. This upgrades those from single-anecdote to *pattern*.
+
+**DOES NOT hold up — the priority claim inverts.** In this 2026-09-21 appearance Al-Khalili called the arrow of time "the fundamental thing", "baked into the universe", "one master arrow of time". In the 2026-10-27 Keating appearance there are **effectively zero** such statements (coarse grep, union of 'master arrow' / 'baked into' / 'fundamental': **1** line vs **19** here), and where he names a generator it is the entropy-first move he rejected here. The house's Sept-21 reading was that entropy-increase *derives from* a fundamental arrow; the Oct-27 framing reverses that.
+
+**Also diverged:** general register drops (thesis → "it's very fluffy it's very handwavy"); causal-set theory (3 hits → 0); the anti-Rovelli statement (**single instance only, not corroborated** — stop citing it as a pattern); gravity's evidential role swapped toward fine-tuning; and Dawkins' valence inverts (cautionary tale → "my good friend" who is "very very wrong" about Claude).
+
+**Unresolved confound:** whether the fundamentality omission is a genuine view change or interviewer-driven — Keating never asks, so it is not decidable from these two sources (they also differ in length, 6324 s vs 2426 s). Registered as an open item, not a verdict.
+
+*Filed by Dion. This note is append-only; nothing above it was modified.*

@@ -28,6 +28,7 @@ The destruction of the Second Temple by Rome in 70 CE was a societal Near-Death 
 [T] **The Cybernetic Decompilation of Sin, Suffering, and Karma:**
 - **Structure without Dogma:** Scaffolds that enable open-ended search vs. frozen overfitted prompts.
 - **Constraints, Not Prescription:** Negative constraints (forbidding unviable microstates) maximize emergent creative degrees of freedom (*Praüs* / chess / constructor theory).
+  `[RE-TAGGED 2026-10-17: untagged (=[M]) → [C]; "constructor theory" attribution struck — CT says nothing about maximizing creative freedom, and Deutsch (Aeon 2012 "Creative Blocks") argues imposed constraints on minds engineer away creativity. — see drops/david_deutsch_pessimism_constructor_theory_chriswilliamson_2026-10-17.md §2 V2]`
 - **Suffering as FEP Misalignment:** Defective garbage collection; high variational free energy ($\mathcal{F}$) caused by resistance to model updates.
 - **Sin as Prediction Error:** Biblical Hebrew *Chet* and Greek *Hamartia* are archery terms meaning "missing the mark" ($\varepsilon = y - g(\mu)$). Repentance (*Metanoia*) is literally a model update.
 - **Karma as Thermodynamics:** Landauer's principle ($W \ge k_B T \ln 2 \cdot \Delta I$). Agency is bounded; borrowing unearned agency exports entropy into the coupled environment, which the balance sheet eventually liquidates.

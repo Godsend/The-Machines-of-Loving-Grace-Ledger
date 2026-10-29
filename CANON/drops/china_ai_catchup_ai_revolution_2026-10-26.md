@@ -1,0 +1,119 @@
+---
+epistemic-registers: EST=established fact HYP=stated hypothesis w/ reasoning A=analogy/our reading (not the source's claim) C=conjecture POETIC=evocative/unfalsifiable RIFF=our extension beyond the source
+rule: no tag = treat as MYTH (do not build on it)
+id: china_ai_catchup_ai_revolution_2026-10-26
+title: "AI Revolution — \"It's over... China's New AI Just Caught Up With America's Best\" (Kimi K3.1 Pro news commentary)"
+source: AI Revolution (YouTube `6pVDrfFckbY`), channel *AI Revolution*, uploaded 2026-10-26, ~14:40 (880 s), AI-news commentary/aggregation channel (NOT a primary source).
+date: 2026-10-26
+canon-id: CANON-2026-10-26-KIMI-K3.1-PRO-CHINA-AI-CATCHUP
+filed-by: Dion (research subagent pass)
+type: SOURCE DROP (secondhand news commentary) + EILT mapping under the Friction Rule + primary-source spot-check
+tags: [china-ai, moonshot, kimi-k3.1-pro, open-weights, terminal-bench, benchmarks, provenance, disguise-launch, tokenizer-fingerprint, model-release, friction-rule, eilt, ai-revolution]
+transcript: /data/SecondBrain/Canon/YT_TRANSCRIPTS/6pVDrfFckbY_AiRevolution_ChinaAI_CaughtUpWithAmericasBest_2026-10-26.txt (+ _timestamped.txt, MM:SS|text, 338 lines)
+---
+
+# Canon Drop: AI Revolution — "It's over... China's New AI Just Caught Up With America's Best"
+
+## 0. Provenance and method
+
+- [EST] **Extraction rail = RUNG 1 (PRIMARY), first try, clean.** `youtube-transcript-api` (installed for the PATH `python3` on Nitro; `/usr/bin/python3` does **not** carry it — the module lives in the Hermes-managed venv python that is first on PATH) against YouTube id `6pVDrfFckbY`. Result: **one track only — `en`, AUTO-GENERATED (ASR); no manual/caption track exists.** **338 segments, coverage 00:02.3 → 14:35.2 s of a declared 880 s** (~99.4%). No 429, no IpBlocked, no fallback needed. Rungs 2/3/4 not attempted.
+- [EST] **Files written (this pass):**
+  - `/data/SecondBrain/Canon/YT_TRANSCRIPTS/6pVDrfFckbY_AiRevolution_ChinaAI_CaughtUpWithAmericasBest_2026-10-26.txt` — plain wrapped text (12,752 B).
+  - `/data/SecondBrain/Canon/YT_TRANSCRIPTS/6pVDrfFckbY_AiRevolution_ChinaAI_CaughtUpWithAmericasBest_2026-10-26_timestamped.txt` — one line per segment, `[MM:SS] text`, **338 lines** (15,227 B). **All `L`-refs below are line numbers of the timestamped file.**
+- [EST] **Speaker:** single narrator throughout (AI-news voiceover); no second speaker, no interview, no Q&A. No on-screen artifact is readable from the transcript — **the video shows no primary benchmark artifact; every number is narrated.**
+- [EST] **SOURCE-TYPE / register discipline applied.** *AI Revolution* is an AI-news **commentary/aggregation** channel: titles and thumbnails are editorialised ("It's over…", "America's best") and the claims are **secondhand re-narrations** of a vendor announcement. So the video's benchmark/model/date assertions are tagged **[HYP]** (stated, secondhand) even where they are true; the channel's *framing* is tagged as editorial; and I ran a **primary-source spot-check** (§3) to move the load-bearing numbers either into **[VERIFIED-PRIMARY]** (with URL) or leave them **[UNVERIFIED]** explicitly.
+- [EST] **ASR corrections of proper nouns** (literal ASR → corrected; my correction is `[A]`): "Kimmy / Kimmy K 3.1 Pro / KI / Ki" → **Kimi / Kimi K3.1 Pro** `[A]`; "GPT6 Astra / GPT6 Astroax / Astramax / Astroax / GPT6 Astro" → **GPT-6 Astra** `[A]`; "Clawude Opus 5 / Claude Opus 5.5" → **Claude Opus 5.5** `[A]`; "Terminal Bench 4.0" → **Terminal-Bench 4.0** `[A]`; "Kimmy Code / Kimmy work" → **Kimi Code / Kimi Work** `[A]`; "SG Lang" → **SGLang** `[A]`; "GDAU" → **Godot** `[A]` (the engine alongside Unity/Unreal/Blender); "Frecad / FreeCAD" → **FreeCAD** `[A]`; "Solid Works" → **SolidWorks** `[A]`; "Office QA Pro V2" → **OfficeQA Pro v2** `[A]`; "Benchcad" → **BenchCAD** `[A]`; "Fujian Tulo" → **Fujian Tulou** `[A]`; "nano banana" is **Google's own nickname, kept as-is**; "Jepu's free ox alpha" → likely **Zhipu's free GLM alpha** `[A]`; "Miniiax's space bunny" → **MiniMax's** `[A]`; "Quen" (Alibaba team) → **Qwen** `[A]`; "kimmy.com" → **kimi.com** `[A]`. **Left UNRESOLVED rather than guessed:** the codenames "Kibitz / kibits / Kibbitz" (kept as **Kibitz**), "Calmia", "Kiwo / Keywire / Kivine", "at a trackerbot" (the X account handle), "pi.dev" (a dev setup), "Jin Xiwan" (a Chinese outlet), and "test.xdev benchard" (an eval bench — retained literally as **"test.xdev"**).
+
+---
+
+## 1. Bottom line
+
+- [EST] **What the video is:** a ~14:40 AI-news commentary claiming that Moonshot AI's newly released **Kimi K3.1 Pro** — an open-weight Chinese model — has closed the gap to America's best on **Terminal-Bench 4.0** to under one point, and asking at the end *"So, is it over for America's lead?"* (L335–336). It is a **news read, not a results paper**; it shows no primary artifact.
+- [HYP] **Its load-bearing factual claim:** Kimi K3.1 Pro scored **65.7%** on Terminal-Bench 4.0 vs **Claude Opus 5.5 at 66.4%** and **GPT-6 Astra at 58.2%** (L9–11); ranked **4th** on Artificial Analysis, **score 55, "11 points up"** on the prior Kimi (L23–25); full weights promised **before Nov 4** (L17).
+- [VERIFIED-PRIMARY] **The four load-bearing numbers are TRUE and trace to Moonshot's own announcement** — the 65.7 / 58.2 / 66.4 Terminal-Bench-4.0 triple appears verbatim in Moonshot's K3.1 Pro tech blog and its official X post (§3). **But the video's date is off by a day** (it says "October 24th", L6; the release + X post are **Oct 23, 2026**). And **the number is self-reported by the vendor** (TNW: *"The figures are Moonshot's own and have not been checked independently"*).
+- [A] **For the ledger: this source's citable value is NOT "China caught up."** It is a **worked real-world instance of the house's core distinction** — that *provenance is not truth*, and that a *ledger records where a claim came from, never its counterfactual fidelity*. See §4–§5. The headline question ("is it over for America's lead?") is **not answerable in EILT's vocabulary** and is the drop's mandated Friction row.
+
+---
+
+## 2. Faithful summary, register-tagged
+
+### 2a. The launch and its numbers
+
+- [HYP] **Claim on air (L6–11):** "Chinese lab moonshot AI dropped Kimmy K 3.1 Pro on October 24th. And on Terminal Bench 4.0 … it scored 65.7%. Claude Opus 5.5 got 66.4%. GPT6 Astra, OpenAI's flagship, got 58.2%." Terminal-Bench 4.0 is described as *"where AI agents have to finish real messy jobs inside a computer completely on their own."*
+- [HYP] **Openness framing (L13–18):** *"Opus and GPT6 stay locked on company servers and Kimmy is about to be handed out for free. Moonshot releases the full weights before November 4th, so anyone with the hardware can run it themselves."*
+- [HYP] **Ranking (L23–28):** *"artificial analysis … ranks Ki the fourth smartest model in the world with a score of 55 11 points up on the last KI. Reddit is freaking out that it passed Claude Fable 5.1. And once those weights drop, the gap between the best free model and the best locked up one shrinks from 12 points to three."* (The "55 / 11 points" phrasing is ASR-garbled; treat the exact figure as **[UNVERIFIED]**.)
+- [HYP] **The spec block (L129–160):** *"K3.1 Pro is the first of the K3.1 series … 3 trillion parameters with a million token memory … built on K3, which came out in mid July with 2.8 [8] trillion parameters, was the biggest open model on the planet back then, and topped Arena's web coding leaderboard ahead of Claude Fable 5 and GPT 5.6 Soul."* The "big change" is *"massively scaled up reinforcement learning."* A **Highspeed** variant is "same brain, two to three times faster, about double the price," and it ships on kimi.com, the app, **Kimi Work** (Windows + Apple-Silicon Macs), **Kimi Code**, plus a cloud service **"Hosted Agents"** (L157–159).
+- [HYP] **Pricing (L160–168):** K3 was "$3 per million tokens in and 15 out against 10 and 50 for Fable 5" (~70% less); "American Labs slashed their prices with Claude Opus 5.5 at 4 and 20 and Sonnet 5.5 at 2 and 10"; K3.1 Pro is **13 yuan in / 68 yuan out / 1.3 yuan repeated input** — "very roughly half of Opus 5.5."
+- [HYP] **Uneven progress, stated fairly by the narrator (L172–178):** Terminal-Bench at all three thinking settings; Kimi's own long-coding marathon **56% → 61%**; **Humanity's Last Exam 47% → 52%**; a physics research test **23 → 25**; a science coding test **59 → 61**. *"Even fans admit bigger models like Fable still show more insight, creativity, and better writing on hard real-world work."*
+
+### 2b. The "disguise launch" — the provenance episode (the drop's real substance)
+
+- [EST] **Timeline the video assembles:** a mystery model **"Kibitz"** appeared on **Arena** (blind-vote site) on **Oct 22** (L39); it competed on 3D/garden/pelican demos against "GPT6 Astroax", "Clawude Opus 5", "Calmia", and "Gemini 4 Carbon" (L46–66). The internet then fingerprinted it: an X account *"at a trackerbot ran a tokenizer test"* — *"A tokenizer is how a model chops up text and every model family does it differently so it works like a fingerprint. They asked kibits to repeat 11 odd strings tied to Moonshot's models and it got them wrong two rounds in a row just like other KI models. while models from seven other labs nailed them. So, it basically got caught because it trips over the same words as its siblings"* (L74–82).
+- [HYP] **Corroborating "leaks" the video strings together (all [UNVERIFIED] side-channels):** late-September **Kimi K3.1** in an API-models list; a developer platform briefly showing **"K3111"** with a million-token memory; mid-October website-code labels *"make 3D, automation K3, … computer swarm"*; **Oct 20** an SGLang update literally naming **Kimi K3.1** (keeps K3's tokenizer, adds a *"fourth medium thinking level next to low, high, and max"*); **Oct 21** K3.1 in **Kimi Code** settings, then a **404** that night; **Oct 23** a 24-second teaser (L92–107).
+- [EST] **The narrator's own point about provenance:** *"Disguise launches are a whole tradition now"* — GPT-4o first on Arena as *"I am also a good GPT2 chatbot"*; Google's *"nano banana"* = Gemini 2.5 Flash Image; *"Jepu's free … alpha burned through over 62 trillion tokens in 6 days … before being revealed as GLM 5.3 flash"*; *"MiniMax's space bunny turned out to be an early M3.1 flash"* (L110–124). *"It's free hype for the lab with one catch. Only the prettiest demos go viral."* `[EST]` (as the narrator's claim).
+
+### 2c. Capability, demos, and the hacking removal
+
+- [HYP] **Demos (all vendor/announcement-sourced):** a *"mythical palace floating above a sea of clouds in Unreal using 8K textures"*; *"a whole 3D action game in [Godot] with five areas: combat, a two-phase boss, day and night, and fast travel"* (L185–190); the narrator's favourite — a **walking human** *"starting from a free anatomy model with 296 bones and 402 muscles, … 167 tasks and 420 reviews of its own work … eventually he walked non-stop for 11.2 seconds. When tweaking the rewards stopped helping the arms, the model went and inspected the physics simulator itself, found 36 errors in the shoulder muscle math, fixed them, and retrained"* (L193–202).
+- [HYP] **3D/CAD numbers (L218–221, L229–239):** **BenchCAD 92.7%** vs *"Opus 5.5's 96.2% and GPT6 Astra's 95.9%"*; in FreeCAD *"a 2,100 part jet engine"*; a Fujian-Tulou-inspired lamp; a Chinese outlet's hand-drawn 4-rotor aircraft sketch → *"608 lines of Blender script … 1.7 megabyte 3D model … the model came out at 8.0000 6.199 and 2.400 off by [1 mm]"*, with the model screenshotting its own work twice before ticking off six to-dos.
+- [HYP] **Finance (L275–290):** **OfficeQA Pro v2 = 64.4**, *"the best result out there according to Kimmy"*; internal financial modeling +14%, research +20%; a hallucination stress test falling from **23.4% → 8.3%** wrong facts — *"Though Kim admits that test is stuffed with trick questions."*
+- [HYP] **Hacking removal (L293–322):** *"During training, Moonshot noticed the model getting much better at finding security holes and traced it to hacking data that had slipped into the general training mix … So for the open version, they deleted it from both stages while trying to keep normal coding intact."* On their **"test.xdev"** bench (recently disclosed real bugs; *"has to write its own attack to take full control inside a locked sandbox"*), the hacking-trained version succeeded **90.5% within three tries**; the released one hits **81%**. *"Kimmy says its hacking skills still trail closed models that have been public for at least 3 months. Their rule is that open models should stay behind the frontier of attacks."* Developers split three ways (L318–322).
+- [EST] **The quota complaint (L325–333):** *"One headline says it was wiped out in about 10 minutes. A user on the $99 a month plan ran one session without even turning on the agent swarm and hit the five hour limit in about 47 minutes. Someone on the $19 plan said one task can eat the whole 5-hour allowance."*
+
+---
+
+## 3. Primary-source spot-check (what I actually verified vs what I did NOT)
+
+I checked the two most load-bearing claims (the Terminal-Bench triple; the Nov-4 weight release) against Moonshot's own announcement and one independent outlet. **URLs cited; nothing else was fetched.**
+
+| Claim (video) | Verdict | Primary source |
+|---|---|---|
+| K3.1 Pro = **65.7%** on Terminal-Bench 4.0; **GPT-6 Astra 58.2%**; **Claude Opus 5.5 66.4%** | **[VERIFIED-PRIMARY]** — appears **verbatim** | Moonshot K3.1 Pro tech blog `https://www.kimi.com/en/blog/kimi-k3-1-pro`; official X post `@Kimi_Moonshot` (5:15 PM · Oct 23, 2026) |
+| Full weights **"before November 4th"** | **[VERIFIED-PRIMARY]** — *"Moonshot plans to publish the full model weights by 4 November"* | TNW `https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber` |
+| **"3 trillion parameters"**, 1M-token context | **[VERIFIED-PRIMARY, with correction]** — Moonshot markets it *"3T-class open-weight"*; the **underlying K3 is 2.8 T total / 104 B active (MoE)**; the video's flat "3 trillion parameters" is the marketing class, not the count | Kimi blog + `github.com/MoonshotAI/Kimi-K3` (2.8T/104B, K3 released Jul 16 2026, weights Jul 27) |
+| **Release date = "October 24th"** | **[CONTRADICTED]** — primary sources say **Oct 23, 2026** | `@Kimi_Moonshot` Oct 23 post; TNW Oct 23; Prameya News Oct 24 (coverage lag) |
+| **Hacking data stripped** before open release | **[VERIFIED-PRIMARY]** (as Moonshot's own claim) | TNW *"removed cyberattack-related material from training before the open release"* |
+| **Hallucination stress test 23.4% → 8.3%** | **[VERIFIED-PRIMARY]** (as Moonshot's own claim, self-reported) | TNW |
+| "Artificial Analysis ranks Kimi **4th**, score **55**" | **[UNVERIFIED]** — I did **not** fetch the Artificial Analysis leaderboard; the "55 / 11 points" phrasing is ASR-garbled. Related data point only: Digg/AA indexed the prior **K3** as *"the leading open weights model at 57"* — **different model, do not conflate** | — |
+| Pricing in yuan (13 / 68 / 1.3), "half of Opus 5.5" | **[UNVERIFIED]** | — |
+| Every demo, BenchCAD 92.7%, OfficeQA 64.4, the 90.5/81% hacking numbers, quota anecdotes | **[UNVERIFIED]** — vendor-blog/secondhand only; not fetched | — |
+
+- [A] **No fabricated receipt. The `L`-refs point to our own transcript; the `[VERIFIED-PRIMARY]` rows point to the URLs above. Everything else is flagged for the reader and NOT asserted as fact.**
+- [EST] **Independent-outlet caveat carried forward:** TNW explicitly states the benchmark figures *"are Moonshot's own and have not been checked independently."* Even a verified vendor number is a **provenance receipt, not a fidelity certificate** — which is the whole point of §5.
+
+---
+
+## 4. Cross-reference (house dedup) and what this is NOT
+
+- [EST] **Cross-ref to the existing China-AI drop:** `/data/SecondBrain/Canon/drops/yi_ling_liu_china_ai_america_forecast2050_2026-10-15.md` (source `iorTxXfBlMQ`, *Forecast 2050*, **filed 2026-10-15**). **Overlap: topical only (China-vs-US AI).** That source is a **journalist's structural/geopolitical read** (diffusion vs AGI, sovereignty, labor, ossification) with a named expert and a published transcript; **this source is a 14-minute news bulletin about a single model release with no named speaker and no analysis.** They share the "China vs America lead" theme and **nothing else** — do not merge, do not treat this as new support for the Liu drop's claims (it makes none of them).
+- [EST] **Not re-filed (already in canon and out of scope here):** the general "open-weight Chinese models" lane, and the *Terminal-Bench / agentic-coding* lane. This drop adds one thing: a **dated, spot-checked instance**.
+- [EST] **Channel and video are new to canon** (grep of `drops/` + `YT_TRANSCRIPTS/` finds no `6pVDrfFckbY` and no near-match; parent confirmed this pre-pass).
+
+---
+
+## 5. EILT mapping under the Friction Rule (≥1 named divergence required)
+
+House commitments mapped: (i) append-only **non-rolling ledger** as identity/provenance substrate; (ii) **provenance is not truth**; (iii) **suffering = defective garbage collection**; (iv) **agency = constrained thermodynamic work**; (v) **connectionism makes the ledger, live inference is the wave**.
+
+| # | Source (with L-ref) | EILT concept | Relation | Tag |
+|---|---|---|---|---|
+| 1 | Kibitz's identity recovered by **tokenizer fingerprint**, not self-report: *"it got them wrong two rounds in a row just like other KI models … it got caught because it trips over the same words as its siblings"* (L74–82) | **provenance as side-channel, earned; identity is in the pipeline, not the output** | **CONVERGENCE** — the model's *self-description* ("I am also a good GPT2 chatbot", L116) is worthless; its provenance is certified by a shared low-level trace (tokenizer). Exactly the house's provenance substrate. | [A] |
+| 2 | The dated side-channel chain: Oct-20 SGLang string → Oct-21 Kimi Code settings → **404** the same night → Oct-23 teaser → Oct-24 "launch" (L92–107) | **append-only, non-rolling chronology** | **CONVERGENCE (as evidence)** — the leak timeline is *itself* a ledger: each dated artifact is a commit that cannot be unsaid. | [A] |
+| 3 | *"Moonshot noticed the model getting much better at finding security holes … So for the open version, they deleted it from both stages"* (L293–298) | **capability/commit surgery; the ledger can't delete a fact** | **TENSION** — you can delete a capability from *released weights*, but you cannot delete the *fact that you had it* (the announcement admits it, 90.5% vs 81%). The record survives the edit; this is the house's non-rolling principle biting the source from behind. | [A] |
+| 4 | *"American Labs slashed their prices"; "70% less"; "GPT6 Astro level performance at a fifth of the cost"* (L160–170) | **agency = constrained thermodynamic work / cost of commit** | **CONVERGENCE (posture)** — the whole story is cost-per-unit-work, i.e. thermodynamic capacity, not "smarts." The narrator stumbles into the house's frame. | [A] |
+| 5 | **"Open weights," "handed out for free," *"anyone with the hardware can run it themselves"*** (L13–18) | **capability ≠ artifact; capability is the compute** | **DIVERGENCE ⚑** — EILT says the *work* is the capability; releasing a **1.56 TB** weight artifact (per the K3 model card) transfers **no thermodynamic capacity**. "Open" ≠ diffusion: without the GPUs nothing is released. The source treats the weights as the capability; **the house denies that** — the artifact is inert without the energy budget. | [A] |
+| 6 | The video's closing question: *"So, is it over for America's lead?"* — lead as a **scalar rank** on one leaderboard (L335–336) | **no single "lead" axis exists** | **DIVERGENCE ⚑ (strongest / Friction row)** — the source's entire thesis presupposes a **rankable scalar** ("the lead shrank to less than one point"). EILT has **no such axis**: capability is distributed constraint-work in an open system, not a position on a bench. **The question is not merely unverified — it is unaskable in the house's vocabulary.** Where the source reads 65.7 vs 66.4 as "0.7 points from parity," the house reads two provenance-certified, single-harness, self-reported numbers on **one** benchmark. Divergence is structural, not a nuance. | [A] |
+| 7 | The narrator treats the benchmark score as a **fact**; TNW: *"the figures are Moonshot's own and have not been checked independently"* (§3) | **provenance is not truth** | **DIVERGENCE ⚑** — 65.7% is a **provenance receipt** (it traces to Moonshot's blog — *"evaluated with the Claude-Code harness"*), NOT a fidelity certificate that Kimi K3.1 "really" does messy terminal jobs as well as Opus 5.5. The source collapses the two; **the house's central rule forbids the collapse.** This is the cleanest live instance of "provenance ≠ truth" the ledger has filed. | [A] |
+
+- [A] **Friction Rule compliance:** rows **5, 6, 7** are **explicit, named divergences** (3 ≥ 1). Rows 1–2 are genuine convergences but **evidential, not derivational** — the source is *an example of* the provenance principle; it does **not** argue for EILT and shows **no awareness of it**. Treat this drop as **corroboration-by-instance**, i.e. weak evidence, never as a source "supporting" the framework.
+- [A] **Anti-confirmation-bias flag:** it would be easy to *decorate a mood* here — "a Chinese model caught up, therefore the ledger's universality is vindicated." **That is exactly what the Friction Rule forbids.** The honest reading: the source is a news bulletin that happens to *instantiate* the provenance substrate the house already posits, while **contradicting the house** on capability-as-artifact (row 5) and presupposing a scalar "lead" the house denies (row 6). No row is "everything maps cleanly." If it looked clean, it would be decoration.
+
+---
+
+## 6. Verdict
+
+- **Single strongest point of the source [A]:** the **disguise-launch / tokenizer-fingerprint episode** (L74–82) is a real, dated, worked example of the house's core commitment that **provenance is recovered from side-channels, not from an artifact's self-report** — and it is *verifiable as reported* (the release was in fact Oct 23, and the model is in fact open-weight, per §3).
+- **Single weakest joint [A]:** the **scalar-lead framing** — *"is it over for America's lead?"* resting on a **0.7-point** gap on **one self-reported, single-harness benchmark** (row 6–7). The title ("It's over…") and thumbnail claim *more* than the body supports; the numbers are true and yet **certify provenance, not truth**. A reader who takes "America's lead" at face value has absorbed the channel's editorial and dropped the house's central distinction.
+- [A] **Citable in outreach for:** exactly one thing — a live, checkable **instance of provenance-vs-self-report** (the fingerprint story), with the caveat that the underlying model claims are vendor-sourced. **Do NOT** cite this video for "China has caught up," for any benchmark number, or as evidence about EILT's universality. Internal reference only.
+- **Falsifiers:** **F-AR1** — if the Artificial Analysis leaderboard (unfetched) does *not* place K3.1 Pro 4th at score 55, row 3 of §3 collapses to the hero's-error category; **F-AR2** (house obligation) — name *one* observable that would let the house say "a lead closed" on its own terms, or strike "lead" from the ledger's vocabulary; **F-AR3** — if a released-weights model can be shown to *transfer thermodynamic capability* (a run of a 3T model at zero marginal energy cost), row 5 of §5 is wrong.
+- [EST] **Dedupe:** no `6pVDrfFckbY` anywhere under `Canon/YT_TRANSCRIPTS/` or `Canon/drops/`; no near-match title. Cross-ref to `yi_ling_liu_china_ai_america_forecast2050_2026-10-15.md` added in §4 (topical overlap only). No existing drop modified; no fabricated receipts.

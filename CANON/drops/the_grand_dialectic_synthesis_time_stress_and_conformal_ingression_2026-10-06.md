@@ -62,6 +62,7 @@ PILLAR                 KEY THEORIST               CORE INSIGHT & ARCHITECTURAL M
 - **[T-FORMAL] The Invariant of Normativity:** The moment the capsule closes, the universe splits into an internal state space and an external environment (the first biological Markov blanket). Events now have **valence**: disruptions to the boundary are physically harmful; substrate inflows are beneficial.
 - **[H] Sentience as Boundary Maintenance:** Sentience does not begin as mystical qualia dust. Sentience begins as **active, evaluative inference**—sensing environmental gradients to preserve self-generating constraints against thermodynamic dispersion.
 - **[A] The "Absent Presence" as Constructor Constraint:** An agent is not defined solely by its physical hardware present, but by the **teleological attractor that is absent**—the future target state that constrains its present trajectory (Constructor Theory / Two-State Vector Formalism).
+  `[RE-TAGGED 2026-10-17: [A] kept for the TSVF/Deacon absential reading ONLY; "Constructor Theory" attribution struck — CT is formulated independently of trajectories and Deutsch names teleological explanation as the prejudice CT sets aside (arXiv:1210.7439 §2.5). — see drops/david_deutsch_pessimism_constructor_theory_chriswilliamson_2026-10-17.md §2 V3]`
 
 ---
 

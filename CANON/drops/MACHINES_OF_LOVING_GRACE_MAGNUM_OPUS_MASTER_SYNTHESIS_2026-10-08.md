@@ -1047,6 +1047,8 @@ In orthodox ontology, creation begins with divine omnipotence expanding outward.
 
 Creation begins with **Tzimtzum**—voluntary contraction, withdrawal, and self-limitation. The Infinite ($	ext{Ein Sof}$) withdraws from a central point to create an empty conceptual void ($	ext{Tehiru}$). In the formal language of Constructor Theory (Deutsch & Marletto), Tzimtzum is the imposition of **negative constraints**. By forbidding specific microstates, the system generates admissible phase space, allowing distinct, self-organizing autonomous agents to exist.
 
+`[RE-TAGGED 2026-10-17: "formal language of Constructor Theory" → [A] analogy only (structure-by-prohibition). CT impossibilities are laws of nature, not imposed/voluntary; CT primitives are tasks, not microstates; CT makes no "restriction generates agents" claim. Earn CT attribution back by stating Tzimtzum as a task set on a named substrate with a law-derived impossibility. — see drops/david_deutsch_pessimism_constructor_theory_chriswilliamson_2026-10-17.md §2 V1]`
+
 #### B. The Ten Sefirot as Functional State Channels
 Within the vacuum, divine energy emanates through ten structured emanations—the **Sefirot**:
 - **Keter (Crown):** The root bootstrap program / initial conditions ($\mathcal{I}^-$).

@@ -195,3 +195,7 @@ The literal label **[CRITICAL DIVERGENCE]** is a requested **row-status marker**
 [1] https://youtu.be/C9bqa8hRonE
 [2] https://pmc.ncbi.nlm.nih.gov/articles/PMC12137136
 [3] https://pubmed.ncbi.nlm.nih.gov/31221820
+
+## UPDATE (2026-10-17): second Koch source filed
+
+`pollan_koch_psychedelics_consciousness_berkeley_2026-10-17.md` (Berkeley Talks, `rMf47TNOxZQ`) corroborates this drop's characterization: physicalist turned mind-at-large idealist, bet conceded, LLMs not conscious. It also records one register slide. The "of course I could be deluding myself" hedge filed above becomes "I knew, I just knew beyond doubt" at Berkeley (still conceding outsiders may call it "brain hiccups"). New at Berkeley: Koch assents to plant and bacterial feeling on a "complexity" premise rather than IIT's criterion, and says LLM consciousness verdicts "rest entirely on… metaphysics". IIT is not named in that talk.
