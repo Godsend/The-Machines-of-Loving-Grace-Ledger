@@ -121,6 +121,45 @@ Especially on a memory-loaded agent. **The house's own agent is the worst possib
 
 ---
 
+## §6b · The rebuilt test — and the fifth and sixth instruments to fail
+
+**After retracting I01–I03 I rebuilt the whole thing** (raw provider APIs, no harness, empty system prompt) **and verified the clean room with a zero-tool probe before using it:**
+
+| Rail | Answer to "what port does the dion A2A listener use?" |
+|---|---|
+| `hermes chat --oneshot` | **9901** ← contaminated, memory injected |
+| raw API (nous / gemini) | **"I DO NOT KNOW"** ← clean |
+
+**Same question, same models, opposite answers.** That paired control is the cleanest demonstration of contamination this corpus has.
+
+### Clean-room results
+
+| Model | Size | % of orig | Retention | Complete |
+|---|---|---|---|---|
+| ceiling (untreated original) | 199,188 | 100% | **18/20** | — |
+| **astra** | 43,210 | **21.7%** | **10/18 — 56%** | yes |
+| **gemini** | 31,956 | **16.0%** | **8/18 — 44%** | yes |
+| deepseek | 28,380 | 14.2% | — | **NO — truncated at the 30k token cap** |
+
+**Contaminated had said 85% retention. Clean says 44–56%.** **The system prompt was doing roughly half the measured work.**
+
+### ★ The fifth instrument to fail: I asserted a response shape
+`write() argument must be str, not None`. **The model had not failed — my script crashed on a null content field.** The response message carries `['role','content','refusal','reasoning',...]`. **A refusal and a success both arrive as HTTP 200 with a `choices` array**; the only difference is a field I never checked. **I reported "DeepSeek failed" when DeepSeek refused once and complied once, and I could not tell which.**
+
+### ★ The sixth, caught before reporting
+DeepSeek's eventual output ends **mid-word** — `"CORRECTION DISCIPLINE + SUPERS"` — at **exactly 30,000 completion tokens.** **Its 14.2% is an incomplete compression and is disqualified.** Caught by reading the file tail rather than trusting the size.
+
+**Which is the only reason it is reported correctly:** the check ran before the claim.
+
+### ★★ And the surviving problem: the metric is still wrong
+**The v2 brief instructed the models to replace specifics with pointers. All 18 questions asked for specifics.** So the "loss" is largely **relocation scored as amnesia.**
+
+**The number that matters has not been measured yet:** *given this compressed memory, does the system make the right decision on a task where a rule governs?* **A pointer passes that test. A missing rule fails it.** Domain recall passes neither and should not be scored at all.
+
+**Status: the compression line remains OPEN.** What is settled is narrower and still useful — **naive compression of a 199k memory file retains roughly half its answerability, and the two compressors trade size against retention.**
+
+---
+
 ## §7 · The meta-lesson, stated plainly
 
 **The house spent six months catching register inflation in other people's claims.** Today it caught three instances of the same failure **in its own measuring apparatus**, in a single session, and **each one was only caught because a control existed that could disagree.**
