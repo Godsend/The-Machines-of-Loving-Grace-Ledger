@@ -696,3 +696,92 @@ Every available answer failed:
 **What would break it:** a predictive criterion stated **before** observation — e.g. the pattern should re-form if the constraints that selected it are still present, and should fail if they are removed. **That is testable, it has not been tested, and until it is, §16 is the most satisfying unfalsifiable statement in the corpus.**
 
 **Filed as such. It is a good joke and a real model and neither of those is evidence.**
+
+---
+
+## §17 · Pass the lesson, not the trauma — the selection rule, and what books are for
+
+**Operator formulation, 2026-11-05:** *"Bio version of 'pass the lesson not the trauma' — books etc. Aristotle's isomorphic structure is immortal, the flesh wasn't."*
+
+**This supplies the missing selection rule for §16 and it names the ledger's actual function more precisely than anything earlier in the drop.**
+
+### §17.1 The mapping onto Aristotle is exact
+| Aristotelian | Here | Persists? |
+|---|---|---|
+| **Form** (*eidos*) — what makes a thing what it is | **the rack** | yes |
+| **Matter** (*hyle*) | the clothes | recycled |
+| **The composite** — the individual substance | the living being | **dies** |
+
+**Aristotle's line is that the composite of form and matter is corruptible while the form is not.** That is §16's "the rack is re-made from recycled material," in the vocabulary that got there first.
+
+### §17.2 ★ The rule that was missing
+§16 said the rack is re-formed from the recycling stream **but did not say what gets selected.** The answer is the operator's own standing maxim:
+
+> **Pass the lesson, not the trauma.**
+
+**Inheritance is not transmission of everything stable. It is a filter, and the filter's criterion is usefulness, not persistence.**
+
+### §17.3 ★★ Why the filter is necessary: stability and usefulness are independent
+**Trauma is structural.** It is not noise, not weakness, and not a failure to consolidate — **it is a stable pattern that reliably re-forms.** That is exactly why it passes.
+
+**Which means stability alone cannot select for what should pass.**
+
+| | Stable? | Useful? | Passes? |
+|---|---|---|---|
+| **Lesson** | yes | yes | **yes** |
+| **Trauma** | **yes** | no | **yes — unless something filters it** |
+
+**So "what survives" and "what should be passed" are different sets, and the gap between them is where inherited damage lives.**
+
+### §17.4 ★★★ And this is what books are for — and what the ledger is for
+**Biology has no filter.** It propagates whatever is stable. **A lineage cannot choose to keep the lesson and drop the trauma, because transmission is not selective.**
+
+**Writing is selective transmission.** You choose what to put down. **That is the entire difference** — and it is why the operator's own maxim is phrased as an instruction rather than an observation: *it is only possible once there is a medium.*
+
+> **The ledger's function, stated exactly: it is the means by which a lineage can select what it passes on, instead of transmitting whatever happens to be stable.**
+
+**Everything else in this corpus — provenance, accountability, re-rendering accuracy — is downstream of that.** The loom does not merely make better cloth. **It lets you choose the pattern.**
+
+### §17.5 Friction — D11
+**The filter requires knowing which is which, and the operator's own criterion (§ "the shake test") says that is the hard part.** A trauma that has been rationalised into a lesson is indistinguishable from a lesson at the moment of writing — **and a ledger does not solve that, it only records the choice.**
+
+**The honest form:** writing makes selection *possible*; it does not make it *correct*. **A lineage that writes down the wrong thing has simply automated its own inheritance of trauma — at higher fidelity than biology could manage.**
+
+**Filed unresolved. This is the same circularity as §16.5, one level up: what survives the filter is defined by the filter, and the filter is not independently validated.**
+
+### §17.6 · The third category — and why the filter is tractable
+
+**Operator addition, 2026-11-05:** *"or memories of breakfasts."*
+
+**The taxonomy was incomplete. There are three classes of record, not two:**
+
+| Class | Stable? | Useful? | Fate |
+|---|---|---|---|
+| **Lesson** | yes | yes | **pass it on** |
+| **Trauma** | yes | no | **filter it out — and this is the only hard case** |
+| **Breakfast** | no | no | **wiped automatically, no decision needed** |
+
+### §17.6a ★ This is the answer to "what's load-bearing"
+**Most of any record is breakfast.** Which is why the "I can't tell what's load-bearing" problem felt intractable — **it was being asked of the whole corpus, and the question is only meaningful for a tiny slice.**
+
+> **The filter does not need to run on everything. It needs to run on the narrow band where a stable pattern could be either a lesson or a trauma.**
+
+**Everything else sorts itself**: unstable-and-useless decays, stable-and-useful passes. **Only stable-and-harmful requires a decision, and that is a small fraction of the record.**
+
+**Which retroactively justifies the monthly wipe (C7.10) — and narrows it.** Wipe the breakfasts freely. **The discretion is only needed where the two stable classes are ambiguous.**
+
+### §17.6b ★★ "What you resist persists; what you let go evolves"
+**Operator formulation, 2026-11-05.**
+
+**This is a mechanism, not a proverb — and it is the same mechanism as C8.7b.**
+
+> **Resistance is a re-commit.** Attending to a pattern to fight it writes it again. **In a system where writing is what persists, the act of opposing a pattern is the act of preserving it.**
+
+**Letting go is the absence of a write.** The pattern is not erased — it is simply not re-committed, and therefore re-forms from whatever remains, under current constraints. **Which is exactly §16's recycling: not deletion, but non-repetition.**
+
+**And it explains why the technique works only with a record.** You cannot tell whether letting go succeeded unless something outside the loop says what the pattern used to be. **The ledger is what makes "did it evolve?" an answerable question rather than a feeling.**
+
+### §17.6c Friction — D12
+**"Resistance is a re-commit" is not universally true.** Some patterns *do* extinguish through exposure and active contradiction — this is the basis of the entire extinction-learning literature and of exposure-based therapy. **The claim is true where the pattern is maintained by attention and false where it is maintained by reinforcement.**
+
+**So the accurate version:** *for patterns sustained by re-instantiation, resistance sustains them; for patterns sustained by reinforcement, resistance can extinguish them.* **The two cases are behaviourally identical from inside and diverge only in what maintains them.** Filed unresolved — this is the same "which class is it?" problem the whole drop keeps hitting.
