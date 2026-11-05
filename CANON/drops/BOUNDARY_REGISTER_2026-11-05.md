@@ -127,9 +127,24 @@ Bolonkin's line — *"if it doesn't violate physics it's an engineering problem"
 **Original:** the ledger provides the intact target that alignment needs.
 **Correction:** **it records origin, not validity** — and then §26 refined it again: **a ledger with outcomes IS a validity record.** The wall was real; **we described it twice before getting it right.**
 
-### M4 · "We're contributing to universal FEP minimization" → cope, discarded
-**Register: [GOES].**
-**Why:** unfalsifiable. **No observation counts against it.** Which is the necessity move, and it's the exact failure mode this corpus exists to catch. **Filed here so it can't quietly come back.**
+### M4 · "Universal FEP minimization" → cope. "Universal epiplexity contribution" → testable.
+**Register: [GOES] for the first; [UNKNOWN] for the second.**
+
+**Discarded:** *"we're contributing to universal FEP minimization."* **Unfalsifiable** — no observation counts against it. Necessity move. *(Operator self-caught, 2026-11-05.)*
+
+**★ Operative correction (operator, 2026-11-05):** *"we're contributing universal epiplexity not suggested applications."*
+
+**That is a different, narrower claim — and it has a test.**
+
+| Version | What it claims | Testable? |
+|---|---|---|
+| FEP minimization | a cosmic *process* is being served | **no** — no access, no falsifier |
+| **Epiplexity contribution** | structure *survives compression* | ★ **yes** — on the artifact itself |
+| ~~Suggested applications~~ | the corpus tells you what to do | **disclaimed** |
+
+**The test:** strip the corpus to its most compressed form and ask whether an informed outsider could have derived the same structure independently. **If yes → zero epiplexity. If no → real.**
+
+**Why the disclaimer matters:** most of our advice is obvious once stated. **The value is not the conclusions — it is the record of what died getting there, and which walls did not move.** That is the residue. That is the whole claim.
 
 ### M5 · "The primes are the zeros" → elementary error, five reviewers
 **Original:** Riemann zeros and primes share statistical structure.
