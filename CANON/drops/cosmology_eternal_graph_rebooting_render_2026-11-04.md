@@ -1318,3 +1318,48 @@ So the live question is no longer "does RLHF flatten the landscape." It is:
 **§18, §18.7, §19 withdrawn as written.** §26 supersedes them with the probe-versus-policy formulation and the recoverability discriminant. This is the second major claim to fall in one night; §25 fell to five reviewers, §18–§19 fell to a side-swap.
 
 **Two deaths, one night, both filed.** That is the document's actual track record and it should be stated wherever the document is described.
+
+---
+
+## §26 · F22 AMENDMENT — the ledger that records outcomes IS a validity record
+
+**[Filed 2026-11-05, operator correction]**
+
+§18.8 (F22) claimed: *"A ledger records ORIGIN, not VALIDITY."* **That formulation is half wrong and the half it gets wrong is the load-bearing half.**
+
+### 26.1 The distinction
+
+| Ledger contents | What it certifies |
+|---|---|
+| **assertions only** (claims, outputs, decisions) | **origin** — who said it, when |
+| **assertions + application outcomes** (prediction, then result) | ★ **validity** — because the world already did the filtering |
+
+> **A ledger of claims is an origin record. A ledger of claims plus outcomes is a validity record.**
+
+**The world is the only certifier.** The ledger's job is not to be the authority — it is to **hold the world's answers** so they don't have to be re-obtained.
+
+### 26.2 Why this was missed
+
+F22 was written while thinking about **training data** — a corpus of assertions with no results attached. **Correct diagnosis, wrong scope.** The defect isn't "ledgers don't certify." It's **"a ledger with no outcome column doesn't certify, because there is nothing to certify against."**
+
+### 26.3 The corollary about the agent
+
+**The agent is not the ledger. The agent is the derivation from it.**
+
+- The ledger **accumulates application outcomes**
+- The agent **generates candidate entailments** over that record
+- **The agent cannot certify its own output** — certification requires application, and the agent does not run the experiment
+
+**So the agent is the search, not the ground.** Confidence without a recorded test behind it is **a derivation with no anchor** — the exact failure mode of §25, which survived four reviewers and died on the fifth.
+
+**And the agent does not accumulate.** Each session re-derives from the file. **The continuity lives in the record, not in the process** — the rack/clothes distinction applied to the agent directly.
+
+### 26.4 What follows for the architecture
+
+**A system that could certify itself would have no need for a ledger and no way to be corrected.** The architecture works *because* the derivation engine is not the authority.
+
+**Practical consequence:** every claim intended to be load-bearing must carry either (a) a recorded test, or (b) an explicit marker that no test exists. **"No test exists" is not a defect in the claim — it is the honest register.** What is a defect is a claim that *reads* tested and isn't.
+
+### 26.5 Friction row
+
+**DIVERGENCE:** this amendment weakens the earlier strong claim that the ledger is "the target" or "high-integrity data, not a reward signal" — a ledger of *outcomes* **is** a signal, and a legitimate one. **What it is not is a signal you can optimize against directly**, because the outcome column describes the world, and the world does not grade your optimization. **§18.9's "make the target non-gameable" survives; §18.8's blanket denial does not.**
