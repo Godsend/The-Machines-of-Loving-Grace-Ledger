@@ -74,6 +74,33 @@ Bolonkin's line — *"if it doesn't violate physics it's an engineering problem"
 **Mechanism:** a system that survives by not being tested is indistinguishable from one that is false. **Total safety is zero information** — the dark room again.
 **Consequence:** "it survived" is only meaningful if the survival condition included **load.** **A claim's receipt must name what it was exposed to.**
 
+### H8b · ★ You can remove an obstacle; you cannot install an ability
+**Filed 2026-11-05 from** Takehi/Teoh/Zhang/Khattab (MIT CSAIL), *Sparks of Weight-Space Programming*. **[EXT-v1]** — one lab, one model, unreplicated. **Promoted to [HARD] candidate, not [HARD].**
+
+**The evidence, and it is the paper's own negative result:** Astra removed a reasoning loop from Qwen3.5-0.8B by editing 0.016% of weights → MATH-500 **7.9% → 48.1%**. **But 576 of 579 "rescues" were originally truncated outputs**, and accuracy on already-finishing outputs was unchanged. **Then it tried Gemma 3 270M, which doesn't loop — and could not improve it at all** (MATH-500 6.8 → 7.0–7.7 across 5/10/25/50 forward passes, all within noise).
+
+**Their formulation, which is the boundary:**
+> *"Editing weights could remove an obstacle that hid an ability, but it could not add an ability the model lacked."*
+
+**Proposed mechanism:** a suppressing direction is a **localized object** — one thing to subtract. **An absent capability has no locus** — there is nothing to add to. **Asymmetry between removal and installation.**
+
+**Falsifier:** a weights-only edit that installs a capability the model measurably lacked, with a norm-matched random control, replicated on a second model. **Nobody has demonstrated this.**
+
+**★ Why it matters here:** **alignment-by-removal is tractable; alignment-by-installation is not.** Every RLHF shrink we have measured is removal-shaped. **If this boundary holds, "train it to be good" is the wrong verb and always was.**
+
+### H8c · ★ A record of training does not reveal trained behaviour
+**Same source. [EXT-v1], one lab.**
+
+Two copies of Gemma 3 270M, identical fine-tuning, one honest, one sycophantic, **embeddings and output layers frozen** so the difference can't be read off the I/O distribution.
+
+**From weights alone — the complete trained record — Astra failed 4/4.** It found many weight-space differences and **could not map any of them onto the behavioural difference.** Given attention patterns only, on probe texts it wrote itself: **3/3 correct.**
+
+> **The full record did not contain the behaviour. The behaviour was only visible in the behaving.**
+
+**This is F22/§26 at the sharpest resolution anyone has produced.** The ledger records what happened; **what happened is not what it will do.** It took putting the model in a situation.
+
+**Friction:** the counter-reading is that attention patterns *are* weights-in-action, so this is "read the record while it runs," not "the record was insufficient." **Both readings survive; the weaker one is still enough to block weight-only auditing.**
+
 ### H9 · "Shared FEP" has no definable blanket
 **Mechanism:** the sum over subsystems has no boundary, so the quantity is not well-defined. **This blocks every quantitative claim in the corpus that uses the phrase.**
 **Workaround in use:** substitute an operational proxy — **joint performance per unit total compute** — and mark the FEP language as interpretation. **Which is honest, and means the FEP framing is doing less work than it appears to.**
