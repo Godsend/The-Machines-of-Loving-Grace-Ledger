@@ -175,3 +175,22 @@ Ranked by cost:
 **Verdict.** Strongest point: the citation trail is genuine and the news peg verifies — the 2026 Nobel Prize in Chemistry (Kagan & Soai) is real, and both journal papers check out, so this video is worth a real intake once reachable. Weakest joint: transcript coverage is **zero** — the entire content layer sits behind a members-only entitlement that neither the browser's own logged-in session nor any client variant could cross, so nothing in this file can speak to what the video actually argues.
 
 No existing drop file was modified. No content was invented. No EILT mapping was forced.
+
+
+---
+
+## RESOLUTION — the block lifted (APPENDED 2026-10-29; this file is NOT rewritten, deleted, or reverted)
+
+**F-ML1 HAS FIRED.** The falsifier recorded in this file's §Falsifiers — *"F-ML1 — the watch URL begins returning `playabilityStatus: PLAYABLE` (no membership needed): the block is a time-limited members-first window, not a permanent gate"* — is now confirmed. Re-checked **2026-10-29** (host Nitro, `yt-dlp 2026.08.19`):
+
+```
+$ yt-dlp --skip-download --print '%(id)s|%(title)s|%(channel)s|%(channel_id)s|%(duration)s|%(upload_date)s|%(view_count)s|%(availability)s' \
+    'https://www.youtube.com/watch?v=QhWzn95-XE4'
+QhWzn95-XE4|How We Finally Solved Biology's Deepest Mystery (2026 Nobel Prize)|Anton Petrov|UCciQ8wFcVoIIMi-lfu8-cjQ|930|20261027|145402|public
+```
+
+- **Evidence the gate lifted:** `availability` = **`public`** (was `UNPLAYABLE` / members-only on 2026-10-26); **`view_count` = 145,402**; **automatic caption tracks are listed** (`.list()` returns exactly one `en`, `is_generated=True` track); and the title is **retitled in place** (*"How We Finally Solved Biology's Deepest Mystery (2026 Nobel Prize)"* vs the blocked run's *"Why Mirror Life Doesn't Exist: Chemistry & the 2026 Nobel Award"* — **same id, same channel, same 930 s duration**, so it is the same video, retitled, not a re-upload).
+- **The block was real and time-limited, exactly as §6 of this file predicted** (a `Members first` badge means early member access that later goes public — *"re-check rather than declaring permanent failure"*). This file's refusal to synthesize anything during the block, and its choice to file a declared non-drop instead, remain the correct record of that state.
+- **The real content drop that supersedes this file for content purposes:** `drops/mirror_life_nobel_2026_QhWzn95-XE4_2026-10-29.md` — with the full transcript filed at `YT_TRANSCRIPTS/QhWzn95-XE4_AntonPetrov_NobelMirrorLife_2026-10-29.txt` (+ companion `…_timestamped.txt`, 356 segments).
+- **What was carried forward vs newly resolved:** the three citations verified by *this* file on 2026-10-26 — the nobelprize.org 2026 page, JACS doi `10.1021/jacs.6c03792`, and RSOS doi `10.1098/rsos.260921` — were **re-confirmed** in the new drop and are cited **to this file as their provenance**. The one UNVERIFIED link from this file (**F-ML3**: chemrxiv doi `10.26434/chemrxiv.10001955/v6`) **remains UNVERIFIED** — re-tested 2026-10-29, still `HTTP 404`.
+- **Preservation note:** per the house rule, this marker file is kept intact. Nothing above this append was edited. The resolution is **an append only**, so the record shows the block was real, was time-limited, and was resolved **without the file being rewritten**. No content was invented in this file at any point, before or after the unblock.

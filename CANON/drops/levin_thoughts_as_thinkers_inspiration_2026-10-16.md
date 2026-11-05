@@ -164,3 +164,20 @@ File it as **incremental, mostly repeat**. Cite the papers, not the talk, for an
 **To-do (not done this pass):** read the Fields & Levin 2025 PLR full text and its commentaries (Lyon's "On not forgetting" may bear directly on F4/B4b); identify the L202 math-controller robot paper.
 
 *Filed by Dion. ClawHoarde untouched; GitHub sync not touched.*
+
+---
+
+## Addendum — 2026-10-31: a SECOND, re-delivered recording of this same talk exists
+
+**Trigger:** `EBF0KUX_jpA` (same channel, uploaded **2026-10-31**, 2108 s) was filed as an incremental drop: `levin_thoughts_as_thinkers_within_without_us_EBF0KUX_jpA_2026-10-31.md`. **This is the same talk, re-delivered — not a re-cut and not this file.** Content overlap is ~85–90 % of content units; surface 4-gram containment against THIS transcript is only **5.79 %** because the two are different deliveries *and* were captured by different ASR engines (this file = YouTube auto-captions via the CDP panel; the new one = Whisper `small.en`, rail 4, since `EBF0KUX_jpA` carries **no caption track at all**).
+
+**Why this note exists (register-discipline §9 — a supersession pointer fixes the READER):** §4's overlap table and §2b's inventory above are correct for *this* delivery but **incomplete as a record of the talk**. The re-delivery is **not a superset of this one**, so both must be read together:
+
+- **New in the 10-31 delivery:** the poet is **named — "the poet Ruth Stone"** (this file leaves her unnamed at L265-class: *"this poet um described her process"*); the **anthrobot / human-neural-wound segment** (adult human tracheal epithelial cells healing a scalpel scratch across a neuron lawn — `anthrobot`/`tracheal`/`human cells`/`wound` = **0 hits here**); *"Darwin's endless forms most beautiful"*; the Paley/Darwin **shared-premise** framing made explicit.
+- **Absent from the 10-31 delivery (present here):** the **thought ladder** (§2d — intrusive thoughts doing *"niche construction"*, DID *"alters"*); *"optimize and suppress ingression"*; the observer-relative pattern-vs-agent line; Pythagoras / Ramanujan / the dense-creature experiment.
+- **★ F1 recurs.** The *"random networks already do this… a free gift from mathematics… It doesn't depend on selection or a history of biology"* overstatement appears again at [12:24–13:27] of the new delivery in near-identical shape. **F1/F-TT2 therefore stand, and are now a two-delivery recurrence rather than a one-off slip.**
+- **Title caveat:** the *"Thoughts as Thinkers"* title has ~zero body support in the new delivery (`thinker` appears only inside the title string); the thought-ladder material that earns this file's title lives only HERE. Do not treat the newer upload as the fuller record of the *thoughts/thinkers* claim.
+
+No text above this addendum was altered. Cross-reference only.
+
+*Addendum filed by Dion, 2026-10-31.*
