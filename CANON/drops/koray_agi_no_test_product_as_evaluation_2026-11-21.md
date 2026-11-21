@@ -8,11 +8,24 @@ duration_hms: "46:57"
 upload_date: 2026-11-19
 views_at_pull: 76,934
 epistemic-registers: "EST=on-tape; HYP=speaker's forward-looking or asserted claim; A=analogy; C=commentator inference; POETIC"
-register-rule: "no tag = treat as unverified. Quotes are from a Gemini structure-extraction of the audio; see §6 caveat."
+register-rule: "no tag = treat as unverified. Quotes are from a Gemini structure-extraction of the audio; §1 spans are caption-verified as of 2026-11-21T1854Z — see §6 (struck in place) and the correction block below the frontmatter."
 canon-id: CANON-2026-11-21-FORdPIWOH5k-KORAY-AGI-NO-TEST
+status: "COMPANION — DUPLICATE VIDEO. This is the SECOND drop on `FORdPIWOH5k`. The canonical is `google_deepmind_koray_kavukcuoglu_gemini_agi_FORdPIWOH5k_2026-11-20.md` (filed 2026-11-20 23:38, full 386-segment caption track, 80 quote-gated spans, 9-row friction table with R1 making the same cut). [CORRECTION 2026-11-21T1854Z by Dion] See the block below the frontmatter."
 ---
 
 # Koray Kavukcuoglu on the path to AGI
+
+> **[CORRECTION 2026-11-21T1854Z · Dion]** This drop duplicates a video already
+> canonically filed: **`google_deepmind_koray_kavukcuoglu_gemini_agi_FORdPIWOH5k_2026-11-20.md`**
+> (2026-11-20 23:38 EST, `FORdPIWOH5k`, 386-segment ASR caption track, 80 quote-gated
+> spans, 9-row friction table, R1 = the same `[CRITICAL DIVERGENCE]` on "adoption is not
+> provenance"). Reached this file 12h47m later. Its §1/§3 material is therefore a second
+> rendering of an existing joint, not new tension. **What it actually adds is §4** — four
+> friction rows where Kavukcuoglu's position is *stronger* than ours, which the canonical
+> drop does not carry. §6 below is **struck in place**: the caption track was never blocked,
+> it had been on disk since 2026-11-20 23:36, and the three §1 spans are verbatim in it.
+> **Deliberately NOT given its own `CANON_INDEX` row** — one index row per video already
+> exists at line 1124; this file is a companion, not a second canonical.
 
 **Speaker:** Koray Kavukcuoglu, CTO, Google DeepMind. **Interviewer:** Hannah Fry.
 
@@ -65,10 +78,28 @@ Required by the standing rule — a mapping with no divergence row is decoration
 - **Benchmark saturation is normal; benchmarks do not define AGI** `[EST]`.
 - **AGI described as a "North Star"** `[EST]` — a direction, not a spec.
 
-## §6 · Extraction caveat (read before quoting)
+## §6 · Extraction caveat — ~~read before quoting~~ **STRUCK 2026-11-21T1854Z**
 
-Quotations above come from a **Gemini structure-extraction of the audio**, not a caption track (YouTube captions were IP-blocked at pull time). Per the standing rule, extraction quotes are **paraphrase-risk until matched against captions**. Timestamps are approximate. The three verbatim spans in §1 should be re-gated against a caption track before any of them is quoted publicly or in outreach.
+> ~~Quotations above come from a **Gemini structure-extraction of the audio**, not a caption track (YouTube captions were IP-blocked at pull time). Per the standing rule, extraction quotes are **paraphrase-risk until matched against captions**. Timestamps are approximate. The three verbatim spans in §1 should be re-gated against a caption track before any of them is quoted publicly or in outreach.~~
+
+**The caveat was true of the pull and false of the corpus, and nobody checked the corpus.**
+A 386-segment ASR caption track for this exact video has been on disk since **2026-11-20
+23:36 EST** — `/data/SecondBrain/Canon/YT_TRANSCRIPTS/FORdPIWOH5k_gemini_path_to_agi_koray_kavukcuoglu_2026-11-19.txt`
+(47,022 B, + `_timestamped.txt` 50,110 B). All three §1 spans are **verbatim in it** (substring-checked
+2026-11-21T1854Z):
+
+- *"The strongest version of the argument is we don't have a test for AGI. We'll never have a test for AGI."*
+- *"So trying to build AGI without products in the loop, I don't think it's going to happen."*
+
+So the §1 quotations are caption-verified and may be cited. The **timestamps in brackets remain
+approximate** — they came from the extraction, and the Nov-20 canonical supplies real ones
+(`[04:51]`, `[04:40–12:45]`). **Additional standing defect:** the Nov-20 drop documents that this
+same extraction rail *invented a person ("Nando de Freitas"), altered "Argon"→"Argonaut", and
+inverted a clause* on this very episode. Anything quoted from the extraction's **prose** (not this
+file's §1 verbatim block) inherits that defect and is not caption-gated here.
 
 ## §7 · Why this is filed
 
 It is the clearest available statement of the position the house argues against, **made by someone with the resources to act on it**, and it is more useful as an object than as an opponent. The two premises are identical; only the consequence differs. **That is the joint worth testing, and it is testable: which proxy — accrued trust or auditable record — predicts downstream failure better?**
+
+**Amended 2026-11-21T1854Z — the honest answer to "why is this filed" is narrower than the above.** The video is already canonically filed (see the correction block). What this drop uniquely contributes is **§4**: four friction rows where his position is stronger than ours — his proxy is *measured* and ours is a program, his adversarial contact is *distributed and involuntary* while ours is self-administered, "verified" is not "safe," and his dated predictions are more falsifiable than ours have been. Those four rows are the reason this file is kept as a companion rather than retired to `.superseded/`.
