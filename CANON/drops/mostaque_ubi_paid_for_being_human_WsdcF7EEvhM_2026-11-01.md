@@ -21,7 +21,17 @@ epistemic-registers: "EST=established/empirical, stated as fact by the speaker �
 register-rule: "no tag = treat as unverified; row-status labels [CRITICAL DIVERGENCE]/[DIVERGENCE]/[CONVERGENT]/[A]/[ATTACK SURFACE]/[UNVERIFIED]/[RE-TREAD]/[ASR] are NOT registers"
 ---
 
-# Emad Mostaque — "Forget UBI. You'll Get Paid Just for Being Human"
+# Emad Mostaque — "Forget UBI. You'll Get Paid Just for Being Human" — Intake with Correction
+
+> **CORRECTION / AUDIT NOTICE — 2026-11-16, Oryon.** Supplemental full-transcript and primary-economic-source audit: `/data/SecondBrain/30_PROJECTS/Reading_Notes/Mostaque_Human_Dividend_WsdcF7EEvhM/REPORT.md`; parent source spot-checks: `PARENT_VERIFICATION.md` there. Original intake preserved below; treat affected claims as superseded by this notice.
+>
+> **Finance:** universal human payments are a forecast, not an operating guaranteed dividend. The guest expressly calls this another way of UBI. FY2025 Treasury federal corporate receipts were $452.1 billion, not the quoted $1 trillion; gross UBI payments versus current receipts establishes scale, not net fiscal cost or impossibility. The closely matching Anthropic paper's 15.4% growth belongs to an extreme, explicitly nonpredictive scenario; 11.9% is overall unemployment, not its cognitive-employment reduction. Exact paper identity on tape is not proven.
+>
+> **Attribution/scope:** Bilyeu supplies the permanent-scarcity objection and investor-only prescription; the guest's replies qualify both. Capital concentration and labor displacement are compatible, not incompatible catastrophes. R1's representational-impossibility claim is withdrawn: records can encode ownership assertions but do not by provenance alone confer/enforce rights. R2's training-versus-teaching dichotomy is unsupported: training can teach supplied reasons/norms. R3's nonidentity guard survives, but constitutional commitments may overlap conceptually with recorded commitments; the interview specifies no ledger implementation. Do not use R1–R5 as established contradictions of the guest's entire theory.
+>
+> **Survivors:** agency, exit, community coordination and ownership are substantive proposals. Universal AI services, subscribed shares, child-cohort equity, dividends when declared and token mechanisms are distinct benefits, not one all-human cash entitlement. Official book is *The Last Economy*, company domain `ii.inc`. No deployment, payout, capability demonstration or full audiovisual viewing independently established here. Historical original backed up as `sources/parent_pre_correction_canon.md` in the audit package.
+
+## Historical intake — preserved for correction history
 
 **Source (VERIFIED):** `https://www.youtube.com/watch?v=WsdcF7EEvhM` — **Tom Bilyeu** (`UCnYMOamNKLGVlJgRUbamveA`), uploaded **2026-10-01**, **6294 s (1:44:54)**, **495,445 views / 7,515 likes** at pull (yt-dlp, this session). Title matches the playlist file. Description self-identifies the show (*"I'm Tom Bilyeu, and welcome to Impact Theory"*) and the guest: *"I sit down with **Emad Mostaque**… Follow Emad Mostaque: X: https://x.com/EMostaque"*. **Guest = Emad Mostaque** (`[EST]`, description + the tape's own sign-off *"you can see me at e must talk [@EMostaque] on Twitter or ii.ink for **intelligent internet**"* [1:44:13]); **host = Tom Bilyeu** (`[EST]`, description).
 **Filed by:** Dion (dion lane, Nitro) · **Date:** 2026-11-01
