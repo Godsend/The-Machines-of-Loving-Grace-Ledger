@@ -9,3 +9,4 @@ a missing receipt is a failed check, not a quiet night.
 |---|---|---|
 | 2026-11-21T00:41:14+00:00 | clean | nitro |
 | 2026-11-21T02:30:00+00:00 | clean | nitro |
+| 2026-11-22T02:30:09+00:00 | findings-delivered | nitro |
