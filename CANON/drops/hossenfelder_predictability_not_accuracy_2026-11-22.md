@@ -52,16 +52,20 @@ canon-id: CANON-2026-11-22-MiM5xfAe2c-HOSSENFELDER-NONDETERMINISM
 
 ## §4 · The measured noise floor — what this does to our own benchmarks `[CRITICAL]`
 
-**Numerical nondeterminism alone shifts a model's score on a math benchmark by up to 9%** `[EST]` (NeurIPS paper, as reported).
+**Primary-source quote verified 2026-11-23 (`arXiv:2506.09501v2` abstract, Yuan et al., revised 2025-10-24, verbatim):**
+
+> *"For instance, under bfloat16 precision with greedy decoding, a reasoning model like DeepSeek-R1-Distill-Qwen-7B can exhibit up to 9% variation in accuracy and 9,000 tokens difference in response length due to differences in GPU count, type, and evaluation batch size."* `[VERIFIED]`
+
+**Scope boundary (updated 2026-11-23 per CA556):** the 9% figure is an upper-bound example of **LLM-inference numerical nondeterminism** — specifically pronounced in BF16 reasoning models across varying GPU count, GPU type, or evaluation batch size, where early-token FP rounding cascades down chains of thought. It governs **uncontrolled LLM-inference / stochastic-eval deltas**, and does **not** apply to deterministic parsers or fixed-seed deterministic post-processing (whose failure mode is instrument error, not FP inference noise).
 
 **`[C]` Applied to our own work from the last 48 hours:**
 
-- The **iWSP** drop recorded rebuilt NLP models *"lose about 1.4 points of hidden accuracy."* **1.4 points is deep inside a 9% noise band.** That finding may be real, but **it is not established by that comparison** — and I filed it yesterday without checking the noise floor.
-- Any canon or eval claim built on a delta **below ~9%** is currently unfalsifiable against nondeterminism unless the measurement controls for it (fixed seeds, identical hardware, replicated runs, bitwise-reproducible serving).
+- The **iWSP** drop recorded rebuilt NLP models *"lose about 1.4 points of hidden accuracy."* **1.4 points sits inside the uncontrolled LLM-inference noise band** unless inference controls (hardware, batch size, precision, replication) were held fixed — and I filed it yesterday without checking for them.
+- Any canon or eval claim built on a small **LLM-inference** delta is unfalsifiable against numerical nondeterminism unless the measurement controls for it (fixed seeds, identical hardware/batch size, replicated runs, FP32/bitwise-reproducible serving).
 
-**This is the most actionable thing in the video and it cuts at us, not at the labs.** Our entire culture of "we measured X versus Y" needs a noise floor attached, or the numbers are decoration.
+**This is the most actionable thing in the video and it cuts at us, not at the labs.** Our entire culture of "we measured X versus Y" needs an explicit noise floor attached on stochastic/LLM-inference runs, or the numbers are decoration.
 
-**Pre-registered (F-NOISE-1):** re-run any of our benchmark-style claims with N≥5 replicates; if the between-replicate spread exceeds the claimed effect, the claim demotes to `[HYP]`.
+**Pre-registered (F-NOISE-1):** re-run LLM-inference / stochastic benchmark-style claims with N≥5 replicates; if the between-replicate spread exceeds the claimed effect, the claim demotes to `[HYP]`. (Does not demote deterministic parser measurements where the nondeterminism source is absent.)
 
 ## §5 · "Being predictable is not intelligent" — and the RLHF thread `[C]`
 
@@ -82,9 +86,8 @@ canon-id: CANON-2026-11-22-MiM5xfAe2c-HOSSENFELDER-NONDETERMINISM
 
 ## §7 · What was not established
 
-- No replication of the 9% figure in this pass; it is reported, not reproduced `[EST→reported]`
+- No local replication of the 9% figure in this pass; the primary-source abstract (`arXiv:2506.09501v2`) was verified 2026-11-23 (`DeepSeek-R1-Distill-Qwen-7B`, BF16 greedy decoding across GPU count/type/batch size), still reported-from-abstract, not reproduced locally `[VERIFIED-quote, unreplicated]`
 - The 48% one-bit-churn figure is reported, not reproduced
-- No statement of which model classes were tested, or at what scale
 - **The video does not connect nondeterminism to any safety mechanism** — it raises the problem and stops, which is honest but leaves the practical question open
 
 ## §8 · Why this is filed

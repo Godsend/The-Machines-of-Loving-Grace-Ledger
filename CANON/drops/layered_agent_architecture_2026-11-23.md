@@ -53,13 +53,13 @@ Derived, not invented: a **four-family riff** (Astra/GPT-6, Fable/Claude, Grok, 
 
 ### 2.3 GATE — the commit check
 
-`memory_commit_gate.py` — three checks, **7/7 controls**:
+`memory_commit_gate.py` — three checks, **7/7 controls** (`--self-test` verified 2026-11-23):
 
-1. **CONTRADICTION** — shares a subject with an existing rule, opposite polarity
+1. **CONTRADICTION** — shares a technical **anchor** with an existing rule (`ANCHOR_RE`: backticked literal, flag, path, env var, model name, filename), opposite polarity
 2. **SUPERSESSION** — substantially restates a rule; must declare `supersedes: <id>` or it becomes a sibling at equal rank (**Fable's exact warning**)
 3. **SCOPE** — absolute claim (always/never/all) with no measurement, date or source
 
-**A real bug found by its own tests:** jaccard overlap scored a *genuine* contradiction at 0.094 (below threshold) because a long rule inflates the union. Fixed with **rarity-weighted overlap** — `immutable` is evidence, `live` is not.
+**Precision iteration (updated 2026-11-23 00:02 EST, post-draft):** jaccard overlap missed a real contradiction at 0.094; an intermediate **IDF/rarity-weighted** fix was tried and **reverted** (content-free corpus-rare tokens like `2026` and `zero` still fired, and a 2-rule fixture has no usable IDF). Replaced by **shared-anchor matching** (independently proposed by Astra and Gemini): a contradiction must share a referential identifier, not just topical prose. Pure-prose contradictions with no technical anchor intentionally miss; findings remain **candidates**, not automated escalation triggers.
 
 ---
 
@@ -130,27 +130,31 @@ Ran on **72h / 2,480,555 chars → 20 candidates → 12 passed the gate.**
 ## 7. Known defects, stated plainly
 
 1. **Extractors cannot tell a rule from a sentence about a rule.** Semantic distinction; needs a model with a comprehension gate.
-2. **`rebuild_test.py` has no paraphrase control.** Its ceiling tests identity and its floor tests independence — **neither samples the regime a rebuild produces.** The Hossenfelder drop scored 0.06 and then 0.00 on identical input while the rebuild was demonstrably faithful. **The drop passed; the scorer was broken.**
+2. **`rebuild_test.py` has no paraphrase control.** Its ceiling tests identity and its floor tests independence — **neither samples the regime a rebuild produces.** The Hossenfelder drop scored 0.06 and then 0.00 on identical input while the rebuild was demonstrably faithful. **The drop passed; the scorer was broken.** Shared house rule (adopted from CA556): **a result at ceiling, floor, or a fixed 0/0 tie is the instrument until a positive control shows it can move.**
 3. **`meta_rag` gists are titles.** Pointer is the payload; the gist is only an address.
-4. **Gate precision on ordinary prose is poor** — 4/4 findings in the first live review were generic-word overlaps. Rare-token thresholds are the fix, partially applied.
+4. **Gate precision on ordinary prose is bounded** — the initial 4/4 live-review findings were generic-word overlaps. IDF/rarity weighting was tried and reverted; `memory_commit_gate.py` now gates contradictions on a shared technical anchor (`ANCHOR_RE`), which cuts generic-prose false positives at the cost of intentionally missing anchorless pure-prose contradictions. Treat every finding as a **candidate**, never an auto-escalation verdict.
 5. **`consolidation_review` can emit an empty vector**, which is indistinguishable from a quiet day. Reported explicitly, never as success.
-6. **Two runs of the same test can differ** (temperature) — the 9% nondeterminism floor applies to our own instruments, not just benchmark claims.
+6. **Two runs of the same test can differ** (temperature / inference nondeterminism) — the F-NOISE-1 floor applies to our own stochastic LLM-inference instruments, not just external benchmarks.
 
 ---
 
-## 8. The measurement floor that applies to all of the above
+## 8. The measurement floor that applies to stochastic LLM-inference results
 
-**Numerical nondeterminism alone shifts a benchmark by up to 9%** (Yuan et al., NeurIPS 2025, `2506.09501` — verified real).
+**Citation verified at source (2026-11-23, `arXiv:2506.09501v2` abstract, Yuan et al., revised 2025-10-24, verbatim):**
 
-**Consequence: any claim built on a delta below ~9% is unfalsifiable without explicit controls** (fixed seeds, identical hardware, replication, bitwise-reproducible serving). This demoted one of our own canon claims on the day it was filed.
+> *"For instance, under bfloat16 precision with greedy decoding, a reasoning model like DeepSeek-R1-Distill-Qwen-7B can exhibit up to 9% variation in accuracy and 9,000 tokens difference in response length due to differences in GPU count, type, and evaluation batch size."*
 
-**Pre-registered: F-NOISE-1** — N≥5 replicates or the claim demotes to `[HYP]`.
+**Scope boundary (added per CA556):** the 9% figure is an upper-bound example for **LLM-inference numerical nondeterminism** — specifically pronounced in BF16 reasoning models across hardware/batch-size variation where early-token FP rounding cascades down long chains of thought. It applies to **uncontrolled LLM-inference deltas** (benchmarks, LLM-as-judge / stochastic rebuild runs). It does **not** apply to deterministic parsers or fixed-seed deterministic post-processing (e.g., parser-scored credit counts or deterministic backtest length-control deltas), whose failure mode is instrument error (§7.2), not FP inference noise.
+
+**Consequence:** any claim built on an uncontrolled LLM-inference delta inside the numerical noise band is unfalsifiable without explicit controls (fixed seeds, identical hardware/batch size, replication, or FP32/bitwise-reproducible serving).
+
+**Pre-registered: F-NOISE-1** — for LLM-inference / stochastic-eval claims, require N≥5 replicates (or deterministic/controlled serving) or demote to `[HYP]`.
 
 ---
 
 ## 9. What is NOT built
 
-- **Injection.** The layers exist on disk; none is injected into a session. That is a deliberately reviewed decision, not a default.
+- **Injection (partially landed 2026-11-22 23:48 EST, 12m after initial draft).** Dion's live `MEMORY.md` was swapped to the 3-layer composition (RULES + FACTS + 30 UNCOMPRESSED: 481,953 B → 83,719 B). Automated layer regeneration into `MEMORY.md` and pull-layer auto-routing are not wired.
 - **The commit path.** Nothing writes to `MEMORY.md` automatically. A commit needs a human read and an explicit `supersedes:`.
 - **Stage-2 at scale.** The distillation pass works in principle; it has not yet run end-to-end on a real candidate set.
 - **The review consuming the meta index.** `consolidation_review.py` still scans raw activity, not the curated error record.
